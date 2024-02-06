@@ -45,7 +45,24 @@ Evaluate the effectiveness of tax credits in making health insurance coverage mo
 
 - Uninsured Rate Change By States (2010-2016): Geographic visualization highlighting states with significant reductions or increases in uninsured rates. Understanding of regional trends in uninsured rates and disparities in coverage. Identification of areas requiring targeted interventions to improve healthcare access and coverage.
 
+### About The Dataset
+This dataset provides health insurance coverage data for each state and the United Staes of America as a whole, including variables such as the uninsured rates before and after the Affordable Care Act (ACA) popularly known as Obamacare, estimates of individuals covered by employer and marketplace healthcare plans, and enrollment in Medicare and Medicaid programs. The health insurance coverage data was compiled from the US Department of Health and Human Services. The dataset can be viewed [here](states.csv)
 
+This dataset contains 14 columns and 52 rows of data. Here's an overview of the dataset along with explanations of the column names:
+- State: The geographic entity under scrutiny, representing the diverse regions of the United States.
+- Uninsured Rate (2010): A measure of the percentage of individuals within a state who lacked health insurance coverage in the year 2010, revealing the extent of vulnerability within the population.
+- Uninsured Rate (2015): Similar to the previous column but reflecting the uninsured rate in the year 2015, providing a snapshot of the progress or regress in access to healthcare over the five-year period.
+- Uninsured Rate Change (2010-2015): The magnitude and direction of the change in uninsured rates from 2010 to 2015, offering insights into the efficacy of policies and initiatives aimed at expanding healthcare coverage.
+- Health Insurance Coverage Change (2010-2015): A broader perspective on the evolution of health insurance coverage, encapsulating not only the uninsured but also those who gained or lost coverage over the five-year span.
+- Employer Health Insurance Coverage (2015): The proportion of individuals covered by health insurance provided through their employers in the year 2015, highlighting the role of workplace-based coverage in the healthcare landscape.
+- Marketplace Health Insurance Coverage (2016): The extent of health insurance coverage obtained through the marketplace exchanges established under the Affordable Care Act (ACA) in 2016.
+- Marketplace Tax Credits (2016): Financial assistance provided to eligible individuals purchasing health insurance through the marketplace exchanges in 2016, easing the financial burden of obtaining coverage.
+- Average Monthly Tax Credit (2016): The average amount of tax credits received by individuals enrolled in marketplace health insurance plans on a monthly basis in 2016, illuminating the affordability of coverage under the ACA.
+- State Medicaid Expansion (2016): A binary indicator denoting whether a state chose to expand its Medicaid program under the ACA in 2016, a pivotal decision influencing access to healthcare for low-income individuals.
+- Medicaid Enrollment (2013): The number of individuals enrolled in Medicaid, a federal and state program providing health coverage to eligible low-income individuals and families, in the year 2013.
+- Medicaid Enrollment (2016): Similar to the previous column but reflecting Medicaid enrollment in the year 2016, illustrating changes in program participation over the three-year period.
+- Medicaid Enrollment Change (2013-2016): The net change in Medicaid enrollment from 2013 to 2016, indicative of shifts in eligibility, enrollment procedures, and outreach efforts during this period.
+- Medicare Enrollment (2016): The number of individuals enrolled in Medicare, a federal health insurance program primarily for people aged 65 and older, in the year 2016, highlighting the aging demographic landscape of the nation.
 
 
 
