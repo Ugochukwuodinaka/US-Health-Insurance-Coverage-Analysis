@@ -9,21 +9,21 @@ Through this data analysis, we aim to shed light on changes in uninsured rates, 
 
 ### Objectives:
 To conduct a comprehensive analysis of healthcare coverage metrics from 2010 to 2016, focusing on the top-performing states in various categories:
-- Top 10 States with the Most Declined Uninsured Rate (2010-2016): Identify and analyze the states that experienced the most significant reduction in uninsured rates over the six-year period. Investigate factors contributing to the decline in uninsured rates, such as Medicaid expansion, marketplace enrollment, and outreach initiatives.
+- Top States with the Most Declined Uninsured Rate (2010-2016): Identify and analyze the states that experienced the most significant reduction in uninsured rates over the six-year period. Investigate factors contributing to the decline in uninsured rates, such as Medicaid expansion, marketplace enrollment, and outreach initiatives.
 
 - State Medicaid Expansion Enrollment Status (2016): Assess the Medicaid expansion status of states in 2016 and examine the impact of expansion on healthcare coverage and access.
 Compare enrollment rates and healthcare outcomes between states that expanded Medicaid and those that did not.
 
-- Top 10 States with the Most Significant Medicaid Enrollment Change (2013-2016): Identify states with the largest changes in Medicaid enrollment from 2013 to 2016, including both increases and decreases. Explore factors driving changes in Medicaid enrollment, such as economic conditions, demographic shifts, and policy changes.
+- States with the Most Significant Medicaid Enrollment Change (2013-2016): Identify states with the largest changes in Medicaid enrollment from 2013 to 2016, including both increases and decreases. Explore factors driving changes in Medicaid enrollment, such as economic conditions, demographic shifts, and policy changes.
 
-- Top 10 States by Health Insurance Coverage Change (2010-2015): Analyze states with the most notable changes in health insurance coverage from 2010 to 2015, considering shifts in employer-sponsored coverage, Medicaid expansion, and marketplace enrollment. Examine variations in coverage change patterns across states and demographic groups.
+- States with the most significant Health Insurance Coverage Change (2010-2015): Analyze states with the most notable changes in health insurance coverage from 2010 to 2015, considering shifts in employer-sponsored coverage, Medicaid expansion, and marketplace enrollment. Examine variations in coverage change patterns across states and demographic groups.
 
-- Top 10 States by Average Monthly Credit (2016): Identify states where individuals received the highest average monthly tax credits for marketplace health insurance coverage in 2016.
+- States by Average Monthly Credit (2016): Identify states where individuals received the highest average monthly tax credits for marketplace health insurance coverage in 2016.
 Evaluate the effectiveness of tax credits in making health insurance coverage more affordable for residents.
 
-- Top 10 States by Marketplace Tax Credits (2016): Analyze states where individuals received the highest total amount of marketplace tax credits in 2016. Assess the distribution of tax credits across states and their impact on marketplace enrollment and affordability.
+- States by Marketplace Tax Credits (2016): Analyze states where individuals received the highest total amount of marketplace tax credits in 2016. Assess the distribution of tax credits across states and their impact on marketplace enrollment and affordability.
 
-- Top 10 States by Employee Health Insurance Coverage (2015), Marketplace Health Insurance Coverage (2016), Medicaid Enrollment (2016), and Medicare Enrollment (2016): Compare states based on levels of employee-sponsored health insurance coverage, marketplace enrollment, Medicaid enrollment, and Medicare enrollment. Examine variations in coverage sources and enrollment rates across states.
+- States by Employee Health Insurance Coverage (2015), Marketplace Health Insurance Coverage (2016), Medicaid Enrollment (2016), and Medicare Enrollment (2016): Compare states based on levels of employee-sponsored health insurance coverage, marketplace enrollment, Medicaid enrollment, and Medicare enrollment. Examine variations in coverage sources and enrollment rates across states.
 
 - Uninsured Rate Change By States (2010-2016): Create a geographic visualization of uninsured rate changes across states from 2010 to 2016. Highlight states with the most significant reductions or increases in uninsured rates and explore regional trends.
 
@@ -31,8 +31,8 @@ Evaluate the effectiveness of tax credits in making health insurance coverage mo
 
 - Top 10 States with the Most Declined Uninsured Rate (2010-2016): Identification of states with the most significant reductions in uninsured rates. Insights into factors contributing to the decline, such as Medicaid expansion and marketplace enrollment. Understanding of successful strategies for reducing uninsured rates that can inform future healthcare policy and outreach initiatives.
 
--State Medicaid Expansion Enrollment Status (2016): Assessment of Medicaid expansion's impact on healthcare coverage and access. Comparison of enrollment rates and healthcare outcomes between states that expanded Medicaid and those that did not. Identification of disparities in coverage and access between expansion and non-expansion states.
-
+- State Medicaid Expansion Enrollment Status (2016): Assessment of Medicaid expansion's impact on healthcare coverage and access. Comparison of enrollment rates and healthcare outcomes between states that expanded Medicaid and those that did not.
+  
 - Top 10 States with the Most Significant Medicaid Enrollment Change (2013-2016): Identification of states experiencing the largest changes in Medicaid enrollment. Understanding of economic, demographic, and policy factors driving enrollment changes. Insights into the effectiveness of Medicaid expansion and other enrollment initiatives.
 
 - Top 10 States by Health Insurance Coverage Change (2010-2015): Analysis of states with notable changes in health insurance coverage. Understanding of the impact of various factors, including Medicaid expansion and marketplace enrollment. Identification of demographic groups and regions experiencing the most significant shifts in coverage.
