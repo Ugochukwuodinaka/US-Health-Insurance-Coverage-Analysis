@@ -64,7 +64,23 @@ This dataset contains 14 columns and 52 rows of data. Here's an overview of the 
 - Medicaid Enrollment Change (2013-2016): The net change in Medicaid enrollment from 2013 to 2016, indicative of shifts in eligibility, enrollment procedures, and outreach efforts during this period.
 - Medicare Enrollment (2016): The number of individuals enrolled in Medicare, a federal health insurance program primarily for people aged 65 and older, in the year 2016, highlighting the aging demographic landscape of the nation.
 
+### Tools Used
+1. Power Query Editor
+    - Was used to:
+        1. Extract,
+        2. Transform, and
+        3. Load all the datasets for this analysis.
+           
+2. Power BI (Was used to create reports and dashboard for this analysis)
+    - The following Power BI Features were incorporated:
+        1. DAX
+        2. Quick Measures
+        3. Page Navigation
+        4. Filters
+        5. Tooltips
+        6. Button
 
-
-
+### Data Cleaning, Transformation and Loading using the Power Query Editor:
+1. Changed the column type for "MonthlyIncome" from text to Whole Number (int64).
+2. Changed the column type for "ActiveSinceDays" to Whole Number (int64) from text.
 
