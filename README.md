@@ -247,7 +247,7 @@ From the analysis, i made the Key Performance Indcator findings below:
     highlighting the importance of tax credits in expanding coverage and improving access to healthcare services.
 
 
-  - <img src="Top10_States_By_Insurance_Coverages_Medicaid_%26_Medicare_Enrollments_(2015-2016)_image.jpg" width="250">
+  - <img src="Top10_States_By_Insurance_Coverages_Medicaid_%26_Medicare_Enrollments_(2015-2016)_image.jpg" width="700">
 - **Top 10 States By Employer Health Insurance Coverage (2015), Marketplace Health Insurance Coverage (2016), and Medicaid Enrollment (2016), Medicare Enrollment (2016):**
 - This analysis compares the top 10 states by employer health insurance coverage (2015), marketplace health insurance coverage (2016), Medicaid enrollment (2016), and Medicare enrollment (2016), highlighting variations in coverage sources and enrollment rates. It provides insights into the effectiveness of different coverage programs and enrollment initiatives and identifies variations in coverage and access across states and demographic groups.
   - Comparison of States Based on Coverage Sources and Enrollment Rates:
