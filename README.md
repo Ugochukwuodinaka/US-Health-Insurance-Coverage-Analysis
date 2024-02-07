@@ -247,7 +247,7 @@ From the analysis, i made the Key Performance Indcator findings below:
     highlighting the importance of tax credits in expanding coverage and improving access to healthcare services.
 
 
-- <img src="Top10_States_By_Insurance_Coverages_Medicaid_%26_Medicare_Enrollments_(2015-2016)_image.jpg" width="600">
+- <img src="Top10_States_By_Insurance_Coverages_Medicaid_%26_Medicare_Enrollments_(2015-2016)_image.jpg" width="400">
 - **Top 10 States By Employer Health Insurance Coverage (2015), Marketplace Health Insurance Coverage (2016), and Medicaid Enrollment (2016), Medicare Enrollment (2016):**
 - This analysis compares the top 10 states by employer health insurance coverage (2015), marketplace health insurance coverage (2016), Medicaid enrollment (2016), and Medicare enrollment (2016), highlighting variations in coverage sources and enrollment rates. It provides insights into the effectiveness of different coverage programs and enrollment initiatives and identifies variations in coverage and access across states and demographic groups.
   - Comparison of States Based on Coverage Sources and Enrollment Rates:
@@ -272,7 +272,7 @@ From the analysis, i made the Key Performance Indcator findings below:
     variations can inform targeted interventions and policy decisions aimed at improving coverage and access to healthcare services for all Americans, particularly those in underserved 
     communities and demographic groups.
 
-- <img src="Uninsured_Rate_Change_By_States_(2010-2015)_image.jpg" width="400">
+- <img src="Uninsured_Rate_Change_By_States_(2010-2015)_image.jpg" width="300">
 - **Uninsured Rate Change By States (2010-2015):**
 - This final analysis focuses on the uninsured rate change by states from 2010 to 2015, utilizing geographic visualization to highlight states with significant reductions or increases in uninsured rates. It provides an understanding of regional trends in uninsured rates and disparities in coverage, identifying areas requiring targeted interventions to improve healthcare access and coverage.
   - Geographic Visualization of Uninsured Rate Change: Geographic visualization, such as maps, can effectively illustrate variations in uninsured rates across states and regions over 
