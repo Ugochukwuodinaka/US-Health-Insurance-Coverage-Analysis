@@ -116,6 +116,7 @@ From the analysis, i made the Key Performance Indcator findings below:
 - The Total Medicaid Enrollment (2016) is 73.53M.
 - The Total Medicare Enrollment (2016) is 55.89M.
 
+
 - <img src="Top10_States_With_The_Most_Declined_Uninsured_Rate_Change_(2010-2016)_image.jpg" width="250">
 - **The top 10 states with the most declined uninsured rate change from 2010 to 2016 are as follows:**
 - In this analysis, Massachusetts tops the list of the top 10 States with the most declined uninsured rate change (2010-2016) with -0.016%, followed closely by Maine with -0.017%, North Dakota with -0.020%, South Dakota with -0.022%, Connecticut with -0.031%, Nebraska with -0.033%, Missouri with -0.034%, Wyoming with -0.034%, Wisconsin with -0.037%, and lastly, Delaware, District of Columbia and Pennsylvania with -0.038% each.
@@ -135,6 +136,7 @@ From the analysis, i made the Key Performance Indcator findings below:
        residents.
      - In conclusion, the decline in uninsured rates across these top 10 states can be attributed to a combination of Medicaid expansion, successful marketplace enrollment initiatives, 
        effective outreach and education efforts, state-specific policies, and favorable economic conditions. 
+
 
 - <img src="States_Medical_Expansion_(2016)_Erollment_Status_image.jpg" width="250">
 - **States Medicaid Expansion (2016) Enrollment Status:**
