@@ -164,7 +164,7 @@ From the analysis, i made the Key Performance Indcator findings below:
 
 - <img src="Top10_States_With_The_Most_Significant_Medicaid_Enrollment_Change_(2013-2016)_image.jpg" width="250">
 - **Top 10 States With The Most Significant Medicaid Enrollment Change (2013-2016):**
-- In this analysis, i focused on the analysis focuses on the top 10 states with the most significant Medicaid enrollment changes from 2013 to 2016, exploring the economic, demographic, and policy factors driving enrollment changes and drawing insights into the effectiveness of Medicaid expansion and other enrollment initiatives. California sits at the top of the top 10 States with a figure of 4,087,700 enrollment change, followed by New York with 752,748, Washington is next with 670,960, Ohio folliows with 661,089, Kentucky - 613,983, Colorado - 591,844, Florida - 539,677, Arizona - 514,428, New Jersey - 500,678, and last in the top 10 States is Pennsylvania with 497,068. 
+- In this analysis, i focused on the analysis focuses on the top 10 states with the most significant Medicaid enrollment changes from 2013 to 2016, exploring the economic, demographic, and policy factors driving enrollment changes and drawing insights into the effectiveness of Medicaid expansion and other enrollment initiatives. California sits at the top of these top 10 States with a figure of 4,087,700 enrollment change, followed by New York with 752,748, Washington is next with 670,960, Ohio folliows with 661,089, Kentucky - 613,983, Colorado - 591,844, Florida - 539,677, Arizona - 514,428, New Jersey - 500,678, and last in the top 10 States is Pennsylvania with 497,068. 
   - Factors Driving Enrollment Changes:
     - Economic Conditions: States experiencing economic growth or downturns may see corresponding changes in Medicaid enrollment. Economic factors such as unemployment rates, job 
       losses, and income levels influence individuals' eligibility and need for Medicaid coverage.
@@ -182,3 +182,23 @@ From the analysis, i made the Key Performance Indcator findings below:
     - Success of Outreach and Enrollment Initiatives: States that invested in outreach and enrollment initiatives, such as Colorado and Kentucky, saw notable enrollment gains. These 
       initiatives helped reach eligible individuals who may have been unaware of their eligibility or faced barriers to enrollment, such as language barriers or lack of access to 
       information.
+
+
+- <img src="Top10_States_By_Hhealth_Inusrance_Coverage__Change_(2010-2015)_image.jpg" width="250">
+- **Top 10 States By HEalth Insurance Coverage Change (2010-2015):**
+- This analysis focuses on the top 10 states with notable changes in health insurance coverage from 2010 to 2015, examining the impact of various factors such as Medicaid expansion and marketplace enrollment. It also identifies demographic groups and regions experiencing the most significant shifts in coverage. At the top of these top 10 States list is California with a figure of 3,826,000 medicaid enrollment change, followed by Texas with 1,781,000, Florida comes third with 1,597,000, New York follows next with 939,000, next is Illinois with 850,000, Ohio has 664,000, Michigan - 618,000, Georgia - 581,000, North Carolina has 552,000, and Washington has a figure of 537,000.
+  - Impact of Various Factors on Coverage Change:
+    - Medicaid Expansion: States that expanded Medicaid eligibility under the Affordable Care Act (ACA), such as California and New York, experienced significant increases in health 
+      insurance coverage. Medicaid expansion extended coverage to low-income adults who were previously ineligible, leading to reduced uninsured rates and improved access to healthcare 
+      services.
+    - Marketplace Enrollment: States with successful marketplace enrollment initiatives, such as California and Florida, saw substantial increases in coverage through subsidized health 
+      insurance plans offered on the marketplace exchanges. Tax credits and subsidies made coverage more affordable for individuals and families, leading to higher enrollment rates.
+    - Economic Conditions: States with robust economic growth, such as California and Texas, experienced increases in employer-sponsored health insurance coverage as businesses expanded 
+      and hired more employees. Improvements in employment rates and wages contributed to higher rates of coverage among working-age adults.
+    - Demographic Shifts: Certain demographic groups, such as young adults and minorities, experienced notable increases in coverage due to provisions under the ACA. Provisions allowing 
+      young adults to stay on their parents' insurance plans until age 26 and outreach efforts targeting minority communities helped reduce disparities in coverage rates.
+  - Identification of Demographic Groups and Regions Experiencing Significant Shifts:
+    - Young Adults: Provisions allowing young adults to remain on their parents' health insurance plans until age 26 led to increased coverage rates among this demographic group.
+    - Low-Income Adults: Medicaid expansion primarily benefited low-income adults who gained access to coverage through expanded eligibility criteria.
+    - Urban vs. Rural Areas: Urban areas with higher population densities tended to see greater increases in coverage compared to rural areas, where access to healthcare services and 
+      insurance options may be more limited.
