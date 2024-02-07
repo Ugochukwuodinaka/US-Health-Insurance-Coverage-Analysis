@@ -202,3 +202,25 @@ From the analysis, i made the Key Performance Indcator findings below:
     - Low-Income Adults: Medicaid expansion primarily benefited low-income adults who gained access to coverage through expanded eligibility criteria.
     - Urban vs. Rural Areas: Urban areas with higher population densities tended to see greater increases in coverage compared to rural areas, where access to healthcare services and 
       insurance options may be more limited.
+
+
+- <img src="Top10_Sates_By_Average_Monthly_Tax_Credit_(2016)_image.jpg" width="250">
+- **Top 10 States By Average Monthly Tax Credit (2016):**
+- In this analysis, my focus is on the top 10 states by average monthly tax credit in 2016, examining the effectiveness of tax credits in improving affordability and access to health insurance. It also provides insights into geographic and demographic patterns of tax credit distribution. At the top of this list is Alaska with a $750 average monthly tax credit, followed by Wyoming with $459, next is North Carolina with $388, Louisiana with $362, Connecticut with  $357, Maine with $342, Wisconsin with $332, Delaware with $330, and New Jersey with $322.
+  - Effectiveness of Tax Credits in Improving Affordability and Access:
+    - Affordability: Tax credits provided financial assistance to individuals and families purchasing health insurance through marketplace exchanges, making coverage more affordable. 
+      States with higher average monthly tax credits, such as Alaska and Wyoming, saw greater reductions in out-of-pocket costs for premiums, co-payments, and deductibles, improving 
+      affordability for consumers.
+    - Access: Increased affordability facilitated higher enrollment rates in health insurance plans, expanding coverage and access to healthcare services. Individuals who previously 
+      found coverage unaffordable were more likely to enroll in marketplace plans with the assistance of tax credits, resulting in reduced uninsured rates and improved access to 
+      preventive care and medical treatment.
+  - Geographic and Demographic Patterns of Tax Credit Distribution:
+    - Geographic Distribution: States with higher average monthly tax credits were often located in regions with higher healthcare costs or lower income levels. Rural states with 
+      smaller populations, such as Alaska and Wyoming, tended to have higher tax credits to offset the higher costs of insurance.
+    - Demographic Distribution: Tax credits benefited individuals and families across various demographic groups, including low-income households, young adults, and older adults. 
+      Younger individuals and families with lower incomes were more likely to qualify for higher tax credits, while older adults may receive smaller subsidies due to lower income 
+      thresholds.
+  - Assessment of Effectiveness: Tax credits played a crucial role in making health insurance coverage more accessible and affordable for millions of Americans, particularly those with 
+    lower incomes. States with higher average monthly tax credits experienced greater reductions in uninsured rates and increased enrollment in marketplace plans, leading to improved 
+    health outcomes and financial security for individuals and families. However, disparities in tax credit distribution persist, with some states and demographic groups receiving 
+    larger subsidies than others. Efforts to address these disparities and ensure equitable access to affordable coverage are essential for achieving universal healthcare coverage.
