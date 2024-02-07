@@ -81,6 +81,20 @@ This dataset contains 14 columns and 52 rows of data. Here's an overview of the 
         6. Button
 
 ### Data Cleaning, Transformation and Loading using the Power Query Editor:
-1. Changed the column type for "MonthlyIncome" from text to Whole Number (int64).
-2. Changed the column type for "ActiveSinceDays" to Whole Number (int64) from text.
+1. Changed the column data type for "State" to text.
+2. Changed the column data type for "Uninsured Rate (2020)", "Uninsured Rate (2015)", and "Uninsured Rate Change (2010-2015)" from whole number to percentage.
+3. Changed the columns "Marketplace Tax Credits (2016)" and "Average Monthly Tax Credit (2016)" to currency data type from whole number.
+4. Replaced a value in the "State Medicaid Expansion (2016)" from 0 to "False"
+5. Removed the last dat row "United States" from the dataset to allow only the States to stand.
+6. Transformed every other column type to its appropriate column type.
+
+**Raw Data**
+- Below a screenshot of a part of the raw data in .csv file format which cannot be fully viewed here. You can download the dataset [here](states.csv).
+
+![](Raw_Data.png)
+
+**Final Power Query Editor screenshot**
+- Below is a screenshot of a part of the cleaned data in power query editor. You can access the full Power BI project document [here](US%20HEALTH%20INSURANCE%20COVERAGE%20(2010%20-%202016).pbix).
+
+![](Power_Query_Editor.png)
 
