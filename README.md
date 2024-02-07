@@ -107,11 +107,33 @@ This dataset contains 14 columns and 52 rows of data. Here's an overview of the 
 
 ### Project Analysis:
 From the analysis, i made the Key Performance Indcator findings below:
-- The Uninsured Rate Change (2010-2016) is -277.%.
-- The Average Mmonthly Tax Credit (2016) is $292.16.
-- Health Insurance Coverage Change (2010-2015) is 19.59M.
-- Employer Health Insurance Coverage (2015) is 172.29M.
-- The Average Age of Customers in this analysis is 51.
-- The number of Customers that are Married is 1,422
-- The number of Customers that are Graduates is 1,953
-- The number of Customer Complaint is 20.
+- The Total Uninsured Rate Change (2010-2016) is -277.%.
+- The Average Monthly Tax Credit (2016) is $292.16.
+- Total Health Insurance Coverage Change (2010-2015) is 19.59M.
+- Total Employer Health Insurance Coverage (2015) is 172.29M.
+- Total Marketplace Health Insurance Coverage (2016) is 11.08M.
+- Total Marketplace Tax Credit is $9.39M.
+- The Total Medicaid Enrollment (2016) is 73.53M.
+- The Total Medicare Enrollment (2016) is 55.89M.
+
+- <img src="Top10_States_With_The_Most_Declined_Uninsured_Rate_Change_(2010-2016)_image.jpg" width="250">
+- **The top 10 states with the most declined uninsured rate change from 2010 to 2016 are as follows:**
+- In this analysis, Massachusetts tops the list of the top 10 States with the most declined uninsured rate change (2010-2016) with -0.016%, followed closely by Maine with -0.017%, North Dakota with -0.020%, South Dakota with -0.022%, Connecticut with -0.031%, Nebraska with -0.033%, Missouri with -0.034%, Wyoming with -0.034%, Wisconsin with -0.037%, and lastly, Delaware, District of Columbia and Pennsylvania with -0.038% each.
+   - Insights:
+     - Medicaid Expansion: Several of the top-performing states, such as Massachusetts, Connecticut, and Delaware, have implemented Medicaid expansion under the Affordable Care Act 
+       (ACA). This expansion provided coverage to more low-income individuals and families, contributing to the decline in uninsured rates.
+     - Marketplace Enrollment: States with successful marketplace enrollment initiatives, including Connecticut and the District of Columbia, saw increased access to affordable health 
+       insurance options through marketplace exchanges. Subsidies and tax credits offered through these exchanges helped individuals afford coverage, leading to a reduction in uninsured 
+       rates.
+     - Outreach and Education: States that actively promoted healthcare enrollment and conducted robust outreach and education campaigns, such as Massachusetts and Connecticut, 
+       experienced greater success in reducing uninsured rates. These efforts helped raise awareness about available coverage options and eligibility criteria, encouraging more 
+       individuals to enroll in health insurance plans.
+     - State-Specific Policies: Some states, like Massachusetts, have implemented state-specific healthcare reform initiatives prior to the ACA, laying the groundwork for expanded 
+       coverage and improved access to care. These pre-existing policies, coupled with ACA provisions, contributed to significant declines in uninsured rates in these states.
+     - Economic Factors: Economic conditions and employment trends may also have influenced uninsured rate changes. States with stable economies and low unemployment rates, such as 
+       North Dakota and Nebraska, may have seen fewer individuals without health insurance coverage due to increased access to employer-sponsored insurance and financial stability among 
+       residents.
+     - In conclusion, the decline in uninsured rates across these top 10 states can be attributed to a combination of Medicaid expansion, successful marketplace enrollment initiatives, 
+       effective outreach and education efforts, state-specific policies, and favorable economic conditions. 
+
+
