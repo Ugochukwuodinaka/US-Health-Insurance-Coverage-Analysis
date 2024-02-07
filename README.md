@@ -104,3 +104,14 @@ This dataset contains 14 columns and 52 rows of data. Here's an overview of the 
 
 #### Report 2
 ![](US_Health_Insurance_Coverage_(2010%20-%202016)_Analysis_Dashboard2.jpg)
+
+### Project Analysis:
+From the analysis, i made the Key Performance Indcator findings below:
+- The Uninsured Rate Change (2010-2016) is -277.%.
+- The Average Mmonthly Tax Credit (2016) is $292.16.
+- Health Insurance Coverage Change (2010-2015) is 19.59M.
+- Employer Health Insurance Coverage (2015) is 172.29M.
+- The Average Age of Customers in this analysis is 51.
+- The number of Customers that are Married is 1,422
+- The number of Customers that are Graduates is 1,953
+- The number of Customer Complaint is 20.
