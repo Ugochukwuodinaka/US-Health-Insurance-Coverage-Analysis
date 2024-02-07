@@ -205,7 +205,7 @@ From the analysis, i made the Key Performance Indcator findings below:
 
 
 - <img src="Top10_Sates_By_Average_Monthly_Tax_Credit_(2016)_image.jpg" width="250">
-- **Top 10 States By Average Monthly Tax Credit (2016):**
+- **Top 10 States By Average Monthly Tax Credits (2016):**
 - In this analysis, my focus is on the top 10 states by average monthly tax credit in 2016, examining the effectiveness of tax credits in improving affordability and access to health insurance. It also provides insights into geographic and demographic patterns of tax credit distribution. At the top of this list is Alaska with a $750 average monthly tax credit, followed by Wyoming with $459, next is North Carolina with $388, Louisiana with $362, Connecticut with  $357, Maine with $342, Wisconsin with $332, Delaware with $330, and New Jersey with $322.
   - Effectiveness of Tax Credits in Improving Affordability and Access:
     - Affordability: Tax credits provided financial assistance to individuals and families purchasing health insurance through marketplace exchanges, making coverage more affordable. 
@@ -224,3 +224,24 @@ From the analysis, i made the Key Performance Indcator findings below:
     lower incomes. States with higher average monthly tax credits experienced greater reductions in uninsured rates and increased enrollment in marketplace plans, leading to improved 
     health outcomes and financial security for individuals and families. However, disparities in tax credit distribution persist, with some states and demographic groups receiving 
     larger subsidies than others. Efforts to address these disparities and ensure equitable access to affordable coverage are essential for achieving universal healthcare coverage.
+
+  - <img src="Top10_States_By_Marketplace_Tax_Credits_(2016)_image.jpg" width="250">
+- **Top 10 States By Marketplace Tax Credits (2016):**
+- My focus in this analysis is on the top 10 states by marketplace tax credits in 2016, examining the distribution and impact of tax credits on marketplace enrollment and affordability. It also identifies states with successful marketplace subsidy programs. At the top is the State of Florida with a total of $1,428,712 marketplace tax credit in 2016, followed by California with a total of $1,239,893, Texas with a total of $913,177, North Carolina with a total of $499,178, Georgia - $427,353, Pennsylvania - $321,345, Virginia - $319,068, Michigan - $275,080, Illinois: $259,701, and Missouri with a total of $225,878 marketplace tax credit for 2016.
+  - Distribution and Impact of Tax Credits on Marketplace Enrollment and Affordability:
+    - Enrollment Impact: States with higher marketplace tax credits often experienced higher enrollment rates in marketplace health insurance plans. Tax credits provided financial 
+      assistance to eligible individuals and families, reducing the cost of monthly premiums and making coverage more affordable. As a result, more individuals were incentivized to 
+      enroll in marketplace plans, leading to increased coverage rates and reduced uninsured rates.
+    - Affordability: Marketplace tax credits played a crucial role in improving affordability for consumers purchasing health insurance through marketplace exchanges. Tax credits helped 
+      offset the cost of premiums, making coverage more affordable for low- and moderate-income individuals and families. As a result, individuals who may have previously been unable to 
+      afford health insurance were able to access coverage, leading to improved financial security and access to healthcare services.
+  - Identification of States with Successful Marketplace Subsidy Programs:
+    - Florida: With the highest marketplace tax credits in 2016, Florida had a successful marketplace subsidy program that significantly impacted affordability and enrollment. The 
+      availability of generous tax credits encouraged more individuals to enroll in marketplace plans, leading to increased coverage and reduced uninsured rates.
+    - California: California also had a successful marketplace subsidy program, with substantial tax credits provided to eligible residents. The state's proactive outreach efforts and 
+      robust enrollment initiatives further contributed to high enrollment rates and improved affordability for consumers.
+    - Texas: Despite being a non-expansion state, Texas had a significant amount of marketplace tax credits in 2016, indicating the effectiveness of subsidies in encouraging marketplace 
+      enrollment and improving affordability for residents.
+  - In conclusion, the top 10 states by marketplace tax credits in 2016 benefited from increased marketplace enrollment and improved affordability for consumers due to the availability 
+    of generous tax credits. States with successful marketplace subsidy programs, such as Florida, California, and Texas, saw higher enrollment rates and reduced uninsured rates, 
+    highlighting the importance of tax credits in expanding coverage and improving access to healthcare services.
