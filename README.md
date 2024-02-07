@@ -1,6 +1,16 @@
 # US-Health-Insurance-Coverage-Analysis (2010-2016)
 ![](US_Health_Insurance_Coverage_image.jpg)
 
+## Table of Contents
+- [Project Overview](#project-overview)
+- [About The Dataset](#about-the-dataset)
+- [Tools Used](#tools-used)
+- [Visualization in Power BI:](#visualization-in-power-bi)
+- [Project Analysis](#project-analysis)
+- [Visuals in Power BI Report](#visuals-in-power-bi-report)
+- [Predictions On What May happen To The Nationwide Uninsured Rate In The Next Five Years](#predictions-on-what-may-happen-to-the-nationwide-uninsured-rate-in-the-next-five-years)
+  
+
 ## Project Overview
 ### Introduction:
 The Affordable Care Act (ACA), often colloquially referred to as Obamacare, stands as one of the most significant pieces of healthcare legislation in the United States in recent history. Enacted in March 2010 under the administration of President Barack Obama, the ACA aimed to address longstanding issues within the American healthcare system, including access, affordability, and quality of care. The period from 2010 to 2016 in the United States marked a significant chapter in healthcare. My project, "US Health Insurance Coverage Analysis (2010-2016)," dives into this era to uncover trends and impacts on coverage.
@@ -289,6 +299,24 @@ From the analysis, i made the Key Performance Indcator findings below:
     interventions to improve healthcare access and coverage. Policy measures such as Medicaid expansion, increased funding for outreach and enrollment assistance, and investments in 
     healthcare infrastructure can help address gaps in coverage and improve access to care in underserved areas. Collaborative efforts between federal, state, and local governments, 
     healthcare providers, and community organizations are essential in implementing effective interventions and reducing disparities in coverage.
+
+
+## Visuals in Power BI Report:
+You can view and interact with this dashboard report on US Health Insurance Coverage (2010-2016) [here](https://app.powerbi.com/view?r=eyJrIjoiYTczNmI4N2MtMTkzOC00ZWQwLTkxZDYtZmQyOTBlOWYyN2VmIiwidCI6IjdlYzI5NjU5LTNjZjItNGYzZi1hYmIzLWE3MjJlZGY3ZmYyZCJ9).
+  
+
+## Predictions On What May Happen To The Nationwide Uninsured Rate In The Next Five Years
+- Predicting the nationwide uninsured rate over the next five years involves considering various factors, including healthcare policy changes, economic conditions, demographic shifts, and public health crises. However, without specific data or information on future developments, any prediction would be speculative. That said, several potential scenarios could impact the uninsured rate:
+- Healthcare Policy Changes: Future changes in healthcare policy, such as modifications to the Affordable Care Act (ACA), Medicaid expansion, or the implementation of universal 
+healthcare initiatives, could significantly influence the uninsured rate. For example, expanding Medicaid eligibility or introducing subsidies for marketplace plans could lead to lower uninsured rates.
+- Economic Conditions: Economic factors, such as employment levels, wages, and overall economic stability, play a crucial role in determining the uninsured rate. A robust economy with low unemployment rates may result in higher rates of employer-sponsored insurance and lower uninsured rates.
+- Demographic Trends: Changes in the demographic composition of the population, such as aging populations or shifts in immigration patterns, can impact the uninsured rate. For instance, an aging population may lead to increased Medicare enrollment, while changes in immigration policies could affect the uninsured rates among non-citizens.
+- Public Health Events: Public health events, such as pandemics or natural disasters, can have unforeseen impacts on healthcare access and coverage. The COVID-19 pandemic, for example, led to job losses and subsequent increases in the uninsured rate as individuals lost employer-sponsored coverage.
+- Policy Responses: Government responses to emerging healthcare challenges, such as the implementation of public health insurance programs or initiatives to address healthcare disparities, can influence the uninsured rate. Policy interventions aimed at increasing coverage and improving healthcare access may lead to reductions in the uninsured rate.
+- Considering the dynamic nature of these factors and the uncertainty surrounding future events, predicting the nationwide uninsured rate with certainty is challenging. However, ongoing monitoring of healthcare policy developments, economic trends, and demographic changes can provide insights into potential shifts in the uninsured rate over time.
+
+
+
 
 
 
