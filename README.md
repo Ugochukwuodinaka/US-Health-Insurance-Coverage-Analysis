@@ -140,7 +140,7 @@ From the analysis, i made the Key Performance Indcator findings below:
 
 - <img src="States_Medical_Expansion_(2016)_Erollment_Status_image.jpg" width="250">
 - **States Medicaid Expansion (2016) Enrollment Status:**
-- The analysis compares Medicaid expansion enrollment status in states across the United States, highlighting differences in enrollment rates and potential healthcare outcomes between states that expanded Medicaid and those that did not.
+- In this analysis, i compared Medicaid expansion enrollment status in states across the United States, highlighting differences in enrollment rates and potential healthcare outcomes between states that expanded Medicaid and those that did not.
   - Medicaid Expansion Enrollment Status: Out of the total 51 states (including Washington D.C.), 32 states successfully enrolled in Medicaid expansion, representing a percentage ratio 
     of 62.75%. Conversely, 19 states chose not to expand Medicaid, accounting for a percentage ratio of 37.25%.
   - Comparison of Enrollment Rates: States that expanded Medicaid have a significantly higher enrollment rate compared to those that did not. This indicates a greater number of low- 
@@ -160,3 +160,25 @@ From the analysis, i made the Key Performance Indcator findings below:
       outcomes, and increased healthcare disparities.
     - Financial strain: Non-expansion states may incur higher healthcare costs due to uncompensated care for uninsured individuals, placing additional strain on state budgets and 
       healthcare providers.
+
+
+- <img src="Top10_States_With_The_Most_Significant_Medicaid_Enrollment_Change_(2013-2016)_image.jpg" width="250">
+- **Top 10 States With The Most Significant Medicaid Enrollment Change (2013-2016):**
+- In this analysis, i focused on the analysis focuses on the top 10 states with the most significant Medicaid enrollment changes from 2013 to 2016, exploring the economic, demographic, and policy factors driving enrollment changes and drawing insights into the effectiveness of Medicaid expansion and other enrollment initiatives. California sits at the top of the top 10 States with a figure of 4,087,700 enrollment change, followed by New York with 752,748, Washington is next with 670,960, Ohio folliows with 661,089, Kentucky - 613,983, Colorado - 591,844, Florida - 539,677, Arizona - 514,428, New Jersey - 500,678, and last in the top 10 States is Pennsylvania with 497,068. 
+  - Factors Driving Enrollment Changes:
+    - Economic Conditions: States experiencing economic growth or downturns may see corresponding changes in Medicaid enrollment. Economic factors such as unemployment rates, job 
+      losses, and income levels influence individuals' eligibility and need for Medicaid coverage.
+    - Demographic Shifts: Changes in population demographics, including aging populations, migration patterns, and birth rates, can impact Medicaid enrollment. Demographic shifts may 
+      increase demand for Medicaid services among certain age groups or communities.
+    - Policy Changes: Medicaid expansion under the Affordable Care Act (ACA) played a significant role in driving enrollment changes in many states. States that expanded Medicaid 
+      eligibility to more low-income adults saw substantial increases in enrollment due to broader eligibility criteria and increased access to coverage.
+    - Outreach and Enrollment Initiatives: States that implemented proactive outreach and enrollment initiatives, including targeted marketing campaigns, simplified application 
+      processes, and community-based enrollment assistance, experienced higher enrollment rates. These efforts helped raise awareness about Medicaid eligibility and facilitated 
+      enrollment for eligible individuals.
+  - Insights into Medicaid Expansion and Enrollment Initiatives:
+    - Effectiveness of Medicaid Expansion: States that expanded Medicaid eligibility under the ACA, such as California, New York, and Washington, experienced significant increases in 
+      enrollment. Medicaid expansion provided coverage to millions of low-income adults who were previously ineligible, resulting in improved access to healthcare services and reduced 
+      uninsured rates.
+    - Success of Outreach and Enrollment Initiatives: States that invested in outreach and enrollment initiatives, such as Colorado and Kentucky, saw notable enrollment gains. These 
+      initiatives helped reach eligible individuals who may have been unaware of their eligibility or faced barriers to enrollment, such as language barriers or lack of access to 
+      information.
