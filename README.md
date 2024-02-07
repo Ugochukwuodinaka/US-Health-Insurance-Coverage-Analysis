@@ -138,7 +138,7 @@ From the analysis, i made the Key Performance Indcator findings below:
        effective outreach and education efforts, state-specific policies, and favorable economic conditions. 
 
 
-- <img src="States_Medical_Expansion_(2016)_Erollment_Status_image.jpg" width="250">
+<img src="States_Medical_Expansion_(2016)_Erollment_Status_image.jpg" width="250">
 - **States Medicaid Expansion (2016) Enrollment Status:**
 - The analysis compares Medicaid expansion enrollment status in states across the United States, highlighting differences in enrollment rates and potential healthcare outcomes between states that expanded Medicaid and those that did not.
   - Medicaid Expansion Enrollment Status: Out of the total 51 states (including Washington D.C.), 32 states successfully enrolled in Medicaid expansion, representing a percentage ratio 
