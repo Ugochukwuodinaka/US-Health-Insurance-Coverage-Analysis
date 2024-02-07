@@ -225,7 +225,7 @@ From the analysis, i made the Key Performance Indcator findings below:
     health outcomes and financial security for individuals and families. However, disparities in tax credit distribution persist, with some states and demographic groups receiving 
     larger subsidies than others. Efforts to address these disparities and ensure equitable access to affordable coverage are essential for achieving universal healthcare coverage.
 
-  - <img src="Top10_States_By_Marketplace_Tax_Credits_(2016)_image.jpg" width="250">
+- <img src="Top10_States_By_Marketplace_Tax_Credits_(2016)_image.jpg" width="250">
 - **Top 10 States By Marketplace Tax Credits (2016):**
 - My focus in this analysis is on the top 10 states by marketplace tax credits in 2016, examining the distribution and impact of tax credits on marketplace enrollment and affordability. It also identifies states with successful marketplace subsidy programs. At the top is the State of Florida with a total of $1,428,712 marketplace tax credit in 2016, followed by California with a total of $1,239,893, Texas with a total of $913,177, North Carolina with a total of $499,178, Georgia - $427,353, Pennsylvania - $321,345, Virginia - $319,068, Michigan - $275,080, Illinois: $259,701, and Missouri with a total of $225,878 marketplace tax credit for 2016.
   - Distribution and Impact of Tax Credits on Marketplace Enrollment and Affordability:
