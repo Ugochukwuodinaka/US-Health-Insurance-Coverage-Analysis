@@ -89,7 +89,7 @@ This dataset contains 14 columns and 52 rows of data. Here's an overview of the 
 6. Transformed every other column type to its appropriate column type.
 
 **Raw Data**
-- Below a screenshot of a part of the raw data in .csv file format which cannot be fully viewed here. You can download the dataset [here](states.csv).
+- Below a screenshot of a part of the raw data in .csv file format which cannot be viewed fully here. You can download the dataset [here](states.csv).
 
 ![](Raw_Data.png)
 
