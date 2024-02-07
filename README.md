@@ -245,3 +245,34 @@ From the analysis, i made the Key Performance Indcator findings below:
   - In conclusion, the top 10 states by marketplace tax credits in 2016 benefited from increased marketplace enrollment and improved affordability for consumers due to the availability 
     of generous tax credits. States with successful marketplace subsidy programs, such as Florida, California, and Texas, saw higher enrollment rates and reduced uninsured rates, 
     highlighting the importance of tax credits in expanding coverage and improving access to healthcare services.
+
+
+  - <img src="Top10_States_By_Insurance_Coverages_Medicaid_%26_Medicare_Enrollments_(2015-2016)_image.jpg" width="250">
+- **Top 10 States By Employer Health Insurance Coverage (2015), Marketplace Health Insurance Coverage (2016), and Medicaid Enrollment (2016), Medicare Enrollment (2016):**
+- This analysis compares the top 10 states by employer health insurance coverage (2015), marketplace health insurance coverage (2016), Medicaid enrollment (2016), and Medicare enrollment (2016), highlighting variations in coverage sources and enrollment rates. It provides insights into the effectiveness of different coverage programs and enrollment initiatives and identifies variations in coverage and access across states and demographic groups.
+  - Comparison of States Based on Coverage Sources and Enrollment Rates:
+    - Employer Health Insurance Coverage: States like California, New York, and Texas have the highest employer health insurance coverage rates, indicating a strong presence of 
+      employer- sponsored insurance within their populations.
+    - Marketplace Health Insurance Coverage: California, Florida, and Texas show substantial enrollment in marketplace health insurance plans, indicating successful marketplace 
+      initiatives and outreach efforts in these states.
+    - Medicaid Enrollment: New York, California, and Florida have the highest Medicaid enrollment rates, reflecting successful Medicaid expansion efforts and outreach programs targeting 
+      low-income individuals and families.
+    - Medicare Enrollment: California, Texas, and Florida have significant Medicare enrollment numbers, likely due to larger populations of elderly residents and successful outreach 
+      efforts to eligible individuals.
+  - Variations in Coverage and Access Across States and Demographic Groups: States with higher employer health insurance coverage rates may have lower enrollment rates in marketplace 
+    plans or Medicaid, indicating reliance on employer-sponsored coverage. Medicaid expansion states generally have higher Medicaid enrollment rates and lower uninsured rates compared 
+    to non-expansion states, demonstrating the impact of policy decisions on coverage outcomes. Rural areas and communities with lower income levels may have higher Medicaid enrollment 
+    rates and reliance on marketplace plans due to limited access to employer-sponsored coverage. Young adults and low-income individuals may disproportionately rely on marketplace 
+    plans and Medicaid for coverage, highlighting the importance of targeted outreach and enrollment initiatives for these demographic groups.
+  - Effectiveness of Different Coverage Programs and Enrollment Initiatives: Employer-sponsored insurance remains a significant source of coverage for many Americans, particularly in 
+    states with high rates of employer health insurance coverage. Medicaid expansion has proven effective in increasing coverage rates and reducing uninsured rates in expansion states, 
+    highlighting the importance of policy decisions in expanding access to healthcare. Marketplace exchanges have provided a vital avenue for individuals and families to access 
+    affordable coverage, especially for those ineligible for employer-sponsored insurance or Medicaid.
+  - Finally, variations in coverage sources and enrollment rates across states reflect the effectiveness of different coverage programs and enrollment initiatives. Understanding these 
+    variations can inform targeted interventions and policy decisions aimed at improving coverage and access to healthcare services for all Americans, particularly those in underserved 
+    communities and demographic groups.
+
+
+
+
+
