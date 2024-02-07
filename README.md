@@ -272,7 +272,23 @@ From the analysis, i made the Key Performance Indcator findings below:
     variations can inform targeted interventions and policy decisions aimed at improving coverage and access to healthcare services for all Americans, particularly those in underserved 
     communities and demographic groups.
 
-
+- <img src="Uninsured_Rate_Change_By_States_(2010-2015)_image.jpg" width="400">
+- **Uninsured Rate Change By States (2010-2015):**
+- This final analysis focuses on the uninsured rate change by states from 2010 to 2015, utilizing geographic visualization to highlight states with significant reductions or increases in uninsured rates. It provides an understanding of regional trends in uninsured rates and disparities in coverage, identifying areas requiring targeted interventions to improve healthcare access and coverage.
+  - Geographic Visualization of Uninsured Rate Change: Geographic visualization, such as maps, can effectively illustrate variations in uninsured rates across states and regions over 
+    time. States with significant reductions in uninsured rates will be highlighted in one color, while states with increases or minimal changes will be represented differently, 
+    allowing for clear visual interpretation of trends.
+  - Understanding Regional Trends in Uninsured Rates: Regional trends may emerge, with certain areas experiencing more substantial reductions in uninsured rates compared to others. For 
+    example, states in the Northeast and West Coast may show greater improvements in coverage due to factors such as Medicaid expansion and robust marketplace enrollment. Conversely, 
+    states in the South and Midwest may exhibit slower progress in reducing uninsured rates, potentially due to lower Medicaid eligibility thresholds, resistance to Medicaid expansion, 
+    or economic challenges.
+  - Disparities in Coverage: Geographic visualization can highlight disparities in coverage between urban and rural areas, as well as among different demographic groups. Urban areas may 
+    show lower uninsured rates compared to rural areas, where access to healthcare services and insurance options may be more limited. Racial and ethnic disparities in coverage may also 
+    be evident, with minority communities facing higher uninsured rates compared to non-Hispanic white populations.
+  - Identification of Areas Requiring Targeted Interventions: States or regions with persistently high uninsured rates or minimal improvements over time may require targeted 
+    interventions to improve healthcare access and coverage. Policy measures such as Medicaid expansion, increased funding for outreach and enrollment assistance, and investments in 
+    healthcare infrastructure can help address gaps in coverage and improve access to care in underserved areas. Collaborative efforts between federal, state, and local governments, 
+    healthcare providers, and community organizations are essential in implementing effective interventions and reducing disparities in coverage.
 
 
 
