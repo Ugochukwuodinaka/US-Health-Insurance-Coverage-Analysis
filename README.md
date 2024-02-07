@@ -5,7 +5,7 @@
 - [Project Overview](#project-overview)
 - [About The Dataset](#about-the-dataset)
 - [Tools Used](#tools-used)
-- [Visualization in Power BI:](#visualization-in-power-bi)
+- [Visualization in Power BI](#visualization-in-power-bi)
 - [Project Analysis](#project-analysis)
 - [Visuals in Power BI Report](#visuals-in-power-bi-report)
 - [Predictions On What May happen To The Nationwide Uninsured Rate In The Next Five Years](#predictions-on-what-may-happen-to-the-nationwide-uninsured-rate-in-the-next-five-years)
