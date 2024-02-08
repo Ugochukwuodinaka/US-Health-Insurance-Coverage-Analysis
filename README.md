@@ -101,19 +101,19 @@ This dataset contains 14 columns and 52 rows of data. Here's an overview of the 
 **Raw Data**
 - Below a screenshot of a part of the raw data in .csv file format which cannot be viewed fully here. You can download the dataset [here](states.csv).
 
-![](Raw_Data.png)
+![](images/Raw_Data.png)
 
 **Final Power Query Editor screenshot**
 - Below is a screenshot of a part of the cleaned data in power query editor. You can access the full Power BI project document [here](US%20HEALTH%20INSURANCE%20COVERAGE%20(2010%20-%202016).pbix).
 
-![](Power_Query_Editor.png)
+![](images/Power_Query_Editor.png)
 
 ## Visualization in Power BI:
 #### Report 1
-![](US_Health_Insurance_Coverage_(2010%20-%202016)_Analysis_Dashboard1.jpg)
+![](images/US_Health_Insurance_Coverage_(2010%20-%202016)_Analysis_Dashboard1.jpg)
 
 #### Report 2
-![](US_Health_Insurance_Coverage_(2010%20-%202016)_Analysis_Dashboard2.jpg)
+![](images/US_Health_Insurance_Coverage_(2010%20-%202016)_Analysis_Dashboard2.jpg)
 
 ### Project Analysis:
 From the analysis, i made the Key Performance Indcator findings below:
@@ -127,7 +127,7 @@ From the analysis, i made the Key Performance Indcator findings below:
 - The Total Medicare Enrollment (2016) is 55.89M.
 
 
-- <img src="Top10_States_With_The_Most_Declined_Uninsured_Rate_Change_(2010-2016)_image.jpg" width="250">
+- <img src="images/Top10_States_With_The_Most_Declined_Uninsured_Rate_Change_(2010-2016)_image.jpg" width="250">
 - **The top 10 states with the most declined uninsured rate change from 2010 to 2016 are as follows:**
 - In this analysis, Massachusetts tops the list of the top 10 States with the most declined uninsured rate change (2010-2016) with -0.016%, followed closely by Maine with -0.017%, North Dakota with -0.020%, South Dakota with -0.022%, Connecticut with -0.031%, Nebraska with -0.033%, Missouri with -0.034%, Wyoming with -0.034%, Wisconsin with -0.037%, and lastly, Delaware, District of Columbia and Pennsylvania with -0.038% each.
    - Insights:
@@ -148,7 +148,7 @@ From the analysis, i made the Key Performance Indcator findings below:
        effective outreach and education efforts, state-specific policies, and favorable economic conditions. 
 
 
-- <img src="States_Medical_Expansion_(2016)_Erollment_Status_image.jpg" width="250">
+- <img src="images/States_Medical_Expansion_(2016)_Erollment_Status_image.jpg" width="250">
 - **States Medicaid Expansion (2016) Enrollment Status:**
 - In this analysis, i compared Medicaid expansion enrollment status in states across the United States, highlighting differences in enrollment rates and potential healthcare outcomes between states that expanded Medicaid and those that did not.
   - Medicaid Expansion Enrollment Status: Out of the total 51 states (including Washington D.C.), 32 states successfully enrolled in Medicaid expansion, representing a percentage ratio 
@@ -172,7 +172,7 @@ From the analysis, i made the Key Performance Indcator findings below:
       healthcare providers.
 
 
-- <img src="Top10_States_With_The_Most_Significant_Medicaid_Enrollment_Change_(2013-2016)_image.jpg" width="250">
+- <img src="images/Top10_States_With_The_Most_Significant_Medicaid_Enrollment_Change_(2013-2016)_image.jpg" width="250">
 - **Top 10 States With The Most Significant Medicaid Enrollment Change (2013-2016):**
 - In this analysis, i focused on the analysis focuses on the top 10 states with the most significant Medicaid enrollment changes from 2013 to 2016, exploring the economic, demographic, and policy factors driving enrollment changes and drawing insights into the effectiveness of Medicaid expansion and other enrollment initiatives. California sits at the top of these top 10 States with a figure of 4,087,700 enrollment change, followed by New York with 752,748, Washington is next with 670,960, Ohio folliows with 661,089, Kentucky - 613,983, Colorado - 591,844, Florida - 539,677, Arizona - 514,428, New Jersey - 500,678, and last in the top 10 States is Pennsylvania with 497,068. 
   - Factors Driving Enrollment Changes:
@@ -194,7 +194,7 @@ From the analysis, i made the Key Performance Indcator findings below:
       information.
 
 
-- <img src="Top10_States_By_Hhealth_Inusrance_Coverage__Change_(2010-2015)_image.jpg" width="250">
+- <img src="images/Top10_States_By_Hhealth_Inusrance_Coverage__Change_(2010-2015)_image.jpg" width="250">
 - **Top 10 States By HEalth Insurance Coverage Change (2010-2015):**
 - This analysis focuses on the top 10 states with notable changes in health insurance coverage from 2010 to 2015, examining the impact of various factors such as Medicaid expansion and marketplace enrollment. It also identifies demographic groups and regions experiencing the most significant shifts in coverage. At the top of these top 10 States list is California with a figure of 3,826,000 medicaid enrollment change, followed by Texas with 1,781,000, Florida comes third with 1,597,000, New York follows next with 939,000, next is Illinois with 850,000, Ohio has 664,000, Michigan - 618,000, Georgia - 581,000, North Carolina has 552,000, and Washington has a figure of 537,000.
   - Impact of Various Factors on Coverage Change:
@@ -214,7 +214,7 @@ From the analysis, i made the Key Performance Indcator findings below:
       insurance options may be more limited.
 
 
-- <img src="Top10_Sates_By_Average_Monthly_Tax_Credit_(2016)_image.jpg" width="250">
+- <img src="images/Top10_Sates_By_Average_Monthly_Tax_Credit_(2016)_image.jpg" width="250">
 - **Top 10 States By Average Monthly Tax Credits (2016):**
 - In this analysis, my focus is on the top 10 states by average monthly tax credit in 2016, examining the effectiveness of tax credits in improving affordability and access to health insurance. It also provides insights into geographic and demographic patterns of tax credit distribution. At the top of this list is Alaska with a $750 average monthly tax credit, followed by Wyoming with $459, next is North Carolina with $388, Louisiana with $362, Connecticut with  $357, Maine with $342, Wisconsin with $332, Delaware with $330, and New Jersey with $322.
   - Effectiveness of Tax Credits in Improving Affordability and Access:
@@ -235,7 +235,7 @@ From the analysis, i made the Key Performance Indcator findings below:
     health outcomes and financial security for individuals and families. However, disparities in tax credit distribution persist, with some states and demographic groups receiving 
     larger subsidies than others. Efforts to address these disparities and ensure equitable access to affordable coverage are essential for achieving universal healthcare coverage.
 
-- <img src="Top10_States_By_Marketplace_Tax_Credits_(2016)_image.jpg" width="250">
+- <img src="images/Top10_States_By_Marketplace_Tax_Credits_(2016)_image.jpg" width="250">
 - **Top 10 States By Marketplace Tax Credits (2016):**
 - My focus in this analysis is on the top 10 states by marketplace tax credits in 2016, examining the distribution and impact of tax credits on marketplace enrollment and affordability. It also identifies states with successful marketplace subsidy programs. At the top is the State of Florida with a total of $1,428,712 marketplace tax credit in 2016, followed by California with a total of $1,239,893, Texas with a total of $913,177, North Carolina with a total of $499,178, Georgia - $427,353, Pennsylvania - $321,345, Virginia - $319,068, Michigan - $275,080, Illinois: $259,701, and Missouri with a total of $225,878 marketplace tax credit for 2016.
   - Distribution and Impact of Tax Credits on Marketplace Enrollment and Affordability:
@@ -257,7 +257,7 @@ From the analysis, i made the Key Performance Indcator findings below:
     highlighting the importance of tax credits in expanding coverage and improving access to healthcare services.
 
 
-- <img src="Top10_States_By_Insurance_Coverages_Medicaid_%26_Medicare_Enrollments_(2015-2016)_image.jpg" width="500">
+- <img src="images/Top10_States_By_Insurance_Coverages_Medicaid_%26_Medicare_Enrollments_(2015-2016)_image.jpg" width="500">
 - **Top 10 States By Employer Health Insurance Coverage (2015), Marketplace Health Insurance Coverage (2016), and Medicaid Enrollment (2016), Medicare Enrollment (2016):**
 - This analysis compares the top 10 states by employer health insurance coverage (2015), marketplace health insurance coverage (2016), Medicaid enrollment (2016), and Medicare enrollment (2016), highlighting variations in coverage sources and enrollment rates. It provides insights into the effectiveness of different coverage programs and enrollment initiatives and identifies variations in coverage and access across states and demographic groups.
   - Comparison of States Based on Coverage Sources and Enrollment Rates:
@@ -282,7 +282,7 @@ From the analysis, i made the Key Performance Indcator findings below:
     variations can inform targeted interventions and policy decisions aimed at improving coverage and access to healthcare services for all Americans, particularly those in underserved 
     communities and demographic groups.
 
-- <img src="Uninsured_Rate_Change_By_States_(2010-2015)_image.jpg" width="400">
+- <img src="images/Uninsured_Rate_Change_By_States_(2010-2015)_image.jpg" width="400">
 - **Uninsured Rate Change By States (2010-2015):**
 - This final analysis focuses on the uninsured rate change by states from 2010 to 2015, utilizing geographic visualization to highlight states with significant reductions or increases in uninsured rates. It provides an understanding of regional trends in uninsured rates and disparities in coverage, identifying areas requiring targeted interventions to improve healthcare access and coverage.
   - Geographic Visualization of Uninsured Rate Change: Geographic visualization, such as maps, can effectively illustrate variations in uninsured rates across states and regions over 
