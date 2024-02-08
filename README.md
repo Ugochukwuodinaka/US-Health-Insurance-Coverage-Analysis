@@ -108,6 +108,12 @@ This dataset contains 14 columns and 52 rows of data. Here's an overview of the 
 
 ![](images/Power_Query_Editor.png)
 
+
+## Data Modelling
+No data modelling was required since we need just a table for the analysis.
+
+
+
 ## Visualization in Power BI:
 #### Report 1
 ![](images/US_Health_Insurance_Coverage_(2010%20-%202016)_Analysis_Dashboard1.jpg)
