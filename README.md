@@ -13,7 +13,7 @@
 
 ## Project Overview
 ### Introduction:
-The Affordable Care Act (ACA), often colloquially referred to as Obamacare, stands as one of the most significant pieces of healthcare legislation in the United States in recent history. Enacted in March 2010 under the administration of President Barack Obama, the ACA aimed to address longstanding issues within the American healthcare system, including access, affordability, and quality of care. The period from 2010 to 2016 in the United States marked a significant chapter in healthcare. My project, "US Health Insurance Coverage Analysis (2010-2016)," dives into this era to uncover trends and impacts on coverage.
+The Affordable Care Act (ACA), often colloquially referred to as Obamacare, stands as one of the most significant pieces of healthcare legislation in the United States in recent history. Enacted in March 2010 under the administration of President Barack Obama, the ACA aimed to address longstanding issues within the American healthcare system, including access, affordability, and quality of care. The period from 2010 to 2016 in the United States marked a significant chapter in healthcare. My project, __US Health Insurance Coverage Analysis (2010-2016)__, dives into this era to uncover trends and impacts on coverage.
 
 Through this data analysis, we aim to shed light on changes in uninsured rates, Medicaid enrollment, Medicare enrollment, marketplace exchanges, and employer-sponsored insurance. By understanding these trends, we hope to inform policymaking and contribute to ongoing efforts to improve healthcare access for all Americans. Join us as we draw insights from this popular health insurance coverage as we work towards a more equitable healthcare system.
 
