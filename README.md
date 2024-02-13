@@ -1,4 +1,4 @@
-# US-Health-Insurance-Coverage-Analysis (2010-2016)
+# US Health Insurance Coverage (2010-2016) Analysis
 ![](images/US_Health_Insurance_Coverage_image.jpg)
 
 ## Table of Contents
