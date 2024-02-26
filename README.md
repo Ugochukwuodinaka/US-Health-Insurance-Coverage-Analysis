@@ -74,6 +74,13 @@ This dataset contains 14 columns and 52 rows of data. Here's an overview of the 
 - __Medicaid Enrollment Change (2013-2016):__ The net change in Medicaid enrollment from 2013 to 2016, indicative of shifts in eligibility, enrollment procedures, and outreach efforts during this period.
 - __Medicare Enrollment (2016):__ The number of individuals enrolled in Medicare, a federal health insurance program primarily for people aged 65 and older, in the year 2016, highlighting the aging demographic landscape of the nation.
 
+### Skills Utilized
+1. Data Cleaning
+2. Data Visualiziation
+3. Descriptive Analytics
+4. Critical Thinking and Problem Solving
+5. Communication and Reporting
+
 ### Tools Used
 1. Power Query Editor
     - Was used to:
@@ -323,8 +330,4 @@ healthcare initiatives, could significantly influence the uninsured rate. For ex
 - __Policy Responses:__ Government responses to emerging healthcare challenges, such as the implementation of public health insurance programs or initiatives to address healthcare disparities, can influence the uninsured rate. Policy interventions aimed at increasing coverage and improving healthcare access may lead to reductions in the uninsured rate.
 - Considering the dynamic nature of these factors and the uncertainty surrounding future events, predicting the nationwide uninsured rate with certainty is challenging. However, ongoing monitoring of healthcare policy developments, economic trends, and demographic changes can provide insights into potential shifts in the uninsured rate over time.
 
-
-
-
-
-
+## Thnak You For Following Through!
