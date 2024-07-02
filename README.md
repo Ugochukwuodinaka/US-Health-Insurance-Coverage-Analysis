@@ -111,11 +111,13 @@ This dataset contains 14 columns and 52 rows of data. Here's an overview of the 
 4. Replaced a value in the __"State Medicaid Expansion (2016)"__ from 0 to "False"
 5. Removed the last dat row __"United States"__ from the dataset to allow only the States to stand.
 6. __Transformed__ every other column type to its appropriate column type.
+<br />
 
 **Raw Data**
 - Below a screenshot of a part of the raw data in .csv file format which cannot be viewed fully here. You can download the dataset [here](states.csv).
 
 ![](images/Raw_Data.png)
+<br />
 <br />
 
 **Final Power Query Editor screenshot**
@@ -141,14 +143,14 @@ No data modelling was required since we need just a table for the analysis.
 
 ### Project Analysis:
 From the analysis, i made the Key Performance Indcator findings below:
-- The Total Uninsured Rate Change (2010-2016) is -277.%.
-- The Average Monthly Tax Credit (2016) is $292.16.
-- Total Health Insurance Coverage Change (2010-2015) is 19.59M.
-- Total Employer Health Insurance Coverage (2015) is 172.29M.
-- Total Marketplace Health Insurance Coverage (2016) is 11.08M.
-- Total Marketplace Tax Credit is $9.39M.
-- The Total Medicaid Enrollment (2016) is 73.53M.
-- The Total Medicare Enrollment (2016) is 55.89M.
+- The Total Uninsured Rate Change (2010-2016) is __-277.%__.
+- The Average Monthly Tax Credit (2016) is __$292.16__.
+- Total Health Insurance Coverage Change (2010-2015) is __19.59M__.
+- Total Employer Health Insurance Coverage (2015) is __172.29M__.
+- Total Marketplace Health Insurance Coverage (2016) is __11.08M__.
+- Total Marketplace Tax Credit is __$9.39M__.
+- The Total Medicaid Enrollment (2016) is __73.53M__.
+- The Total Medicare Enrollment (2016) is __55.89M__.
 <br />
 <br />
 
