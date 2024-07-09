@@ -366,4 +366,4 @@ healthcare initiatives, could significantly influence the uninsured rate. For ex
 <br />
 <br />
 
-## Thnak You For Following Through!
+## Thank You For Following Through!
