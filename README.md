@@ -306,3 +306,4 @@ Considering the dynamic nature of these factors and the uncertainty surrounding 
 <br />
 
 ## Thank You For Following Through!
+![](images/Thank_you.jpg)
