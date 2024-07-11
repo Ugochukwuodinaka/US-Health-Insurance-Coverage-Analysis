@@ -133,7 +133,7 @@ This dataset contains 14 columns and 52 rows of data. Here's an overview of the 
 <br />
 
 ## Data Modelling
-No data modelling was required since we need just a table for the analysis.
+No data modelling was required since we had just one table for the analysis.
 <br />
 <br />
 
