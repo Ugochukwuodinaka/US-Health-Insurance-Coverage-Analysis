@@ -161,7 +161,7 @@ From the analysis, i made the Key Performance Indcator findings below:
 
 - <img src="images/Top10_States_With_The_Most_Declined_Uninsured_Rate_Change_(2010-2016)_image.jpg" width="250">
 
-- **The top 10 states with the most declined uninsured rate change from 2010 to 2016 are as follows:**
+- **The top 10 states with the most declined uninsured rate change from 2010 to 2016:**
 - In this analysis, Massachusetts tops the list of the top 10 States with the most declined uninsured rate change (2010-2016) with -0.016%, followed closely by Maine with -0.017%, North Dakota with -0.020%, South Dakota with -0.022%, Connecticut with -0.031%, Nebraska with -0.033%, Missouri with -0.034%, Wyoming with -0.034%, Wisconsin with -0.037%, and lastly, Delaware, District of Columbia and Pennsylvania with -0.038% respectively.
    - __Insights:__
      - __Medicaid Expansion:__ Several of the top-performing states, such as Massachusetts, Connecticut, and Delaware, have implemented Medicaid expansion under the Affordable Care Act (ACA). This expansion provided coverage to more low-income individuals and families, contributing to the decline in uninsured rates.
@@ -209,101 +209,66 @@ From the analysis, i made the Key Performance Indcator findings below:
 
 - <img src="images/Top10_States_By_Hhealth_Inusrance_Coverage__Change_(2010-2015)_image.jpg" width="250">
 
-- **Top 10 States By HEalth Insurance Coverage Change (2010-2015):**
+- **Top 10 States By Health Insurance Coverage Change (2010-2015):**
 - This analysis focuses on the top 10 states with notable changes in health insurance coverage from 2010 to 2015, examining the impact of various factors such as Medicaid expansion and marketplace enrollment. It also identifies demographic groups and regions experiencing the most significant shifts in coverage. At the top of these top 10 States list is California with a figure of 3,826,000 medicaid enrollment change, followed by Texas with 1,781,000, Florida comes third with 1,597,000, New York follows next with 939,000, next is Illinois with 850,000, Ohio has 664,000, Michigan - 618,000, Georgia - 581,000, North Carolina has 552,000, and Washington has a figure of 537,000.
   - __Impact of Various Factors on Coverage Change:__
-    - __Medicaid Expansion:__ States that expanded Medicaid eligibility under the Affordable Care Act (ACA), such as California and New York, experienced significant increases in health 
-      insurance coverage. Medicaid expansion extended coverage to low-income adults who were previously ineligible, leading to reduced uninsured rates and improved access to healthcare 
-      services.
-    - __Marketplace Enrollment:__ States with successful marketplace enrollment initiatives, such as California and Florida, saw substantial increases in coverage through subsidized 
-      health insurance plans offered on the marketplace exchanges. Tax credits and subsidies made coverage more affordable for individuals and families, leading to higher enrollment 
-      rates.
-    - __Economic Conditions:__ States with robust economic growth, such as California and Texas, experienced increases in employer-sponsored health insurance coverage as businesses 
-      expanded and hired more employees. Improvements in employment rates and wages contributed to higher rates of coverage among working-age adults.
-    - __Demographic Shifts:__ Certain demographic groups, such as young adults and minorities, experienced notable increases in coverage due to provisions under the ACA. Provisions 
-      allowing young adults to stay on their parents' insurance plans until age 26 and outreach efforts targeting minority communities helped reduce disparities in coverage rates.
+    - __Medicaid Expansion:__ States that expanded Medicaid eligibility under the Affordable Care Act (ACA), such as California and New York, experienced significant increases in health insurance coverage. Medicaid expansion extended coverage to low-income adults who were previously ineligible, leading to reduced uninsured rates and improved access to healthcare services.
+    - __Marketplace Enrollment:__ States with successful marketplace enrollment initiatives, such as California and Florida, saw substantial increases in coverage through subsidized health insurance plans offered on the marketplace exchanges. Tax credits and subsidies made coverage more affordable for individuals and families, leading to higher enrollment rates.
+    - __Economic Conditions:__ States with robust economic growth, such as California and Texas, experienced increases in employer-sponsored health insurance coverage as businesses expanded and hired more employees. Improvements in employment rates and wages contributed to higher rates of coverage among working-age adults.
+    - __Demographic Shifts:__ Certain demographic groups, such as young adults and minorities, experienced notable increases in coverage due to provisions under the ACA. Provisions allowing young adults to stay on their parents' insurance plans until age 26 and outreach efforts targeting minority communities helped reduce disparities in coverage rates.
   - __Identification of Demographic Groups and Regions Experiencing Significant Shifts:__
     - __Young Adults:__ Provisions allowing young adults to remain on their parents' health insurance plans until age 26 led to increased coverage rates among this demographic group.
     - __Low-Income Adults:__ Medicaid expansion primarily benefited low-income adults who gained access to coverage through expanded eligibility criteria.
-    - __Urban vs. Rural Areas:__ Urban areas with higher population densities tended to see greater increases in coverage compared to rural areas, where access to healthcare services 
-      and insurance options may be more limited.
+    - __Urban vs. Rural Areas:__ Urban areas with higher population densities tended to see greater increases in coverage compared to rural areas, where access to healthcare services and insurance options may be more limited.
 <br />
 <br />
 
 - <img src="images/Top10_Sates_By_Average_Monthly_Tax_Credit_(2016)_image.jpg" width="250">
 
-- **Top 10 States By Average Monthly Tax Credits (2016):**
+- **Top 10 States With Most Average Monthly Tax Credits (2016):**
 - In this analysis, my focus is on the top 10 states by average monthly tax credit in 2016, examining the effectiveness of tax credits in improving affordability and access to health insurance. It also provides insights into geographic and demographic patterns of tax credit distribution. At the top of this list is Alaska with a $750 average monthly tax credit, followed by Wyoming with $459, next is North Carolina with $388, Louisiana with $362, Connecticut with  $357, Maine with $342, Wisconsin with $332, Delaware with $330, and New Jersey with $322.
   - __Effectiveness of Tax Credits in Improving Affordability and Access:__
-    - __Affordability:__ Tax credits provided financial assistance to individuals and families purchasing health insurance through marketplace exchanges, making coverage more 
-      affordable. States with higher average monthly tax credits, such as Alaska and Wyoming, saw greater reductions in out-of-pocket costs for premiums, co-payments, and deductibles, 
-      improving affordability for consumers.
-    - __Access:__ Increased affordability facilitated higher enrollment rates in health insurance plans, expanding coverage and access to healthcare services. Individuals who previously 
-      found coverage unaffordable were more likely to enroll in marketplace plans with the assistance of tax credits, resulting in reduced uninsured rates and improved access to 
-      preventive care and medical treatment.
+    - __Affordability:__ Tax credits provided financial assistance to individuals and families purchasing health insurance through marketplace exchanges, making coverage more affordable. States with higher average monthly tax credits, such as Alaska and Wyoming, saw greater reductions in out-of-pocket costs for premiums, co-payments, and deductibles, improving affordability for consumers.
+    - __Access:__ Increased affordability facilitated higher enrollment rates in health insurance plans, expanding coverage and access to healthcare services. Individuals who previously found coverage unaffordable were more likely to enroll in marketplace plans with the assistance of tax credits, resulting in reduced uninsured rates and improved access to preventive care and medical treatment.
   - __Geographic and Demographic Patterns of Tax Credit Distribution:__
-    - __Geographic Distribution:__ States with higher average monthly tax credits were often located in regions with higher healthcare costs or lower income levels. Rural states with 
-      smaller populations, such as Alaska and Wyoming, tended to have higher tax credits to offset the higher costs of insurance.
-    - __Demographic Distribution:__ Tax credits benefited individuals and families across various demographic groups, including low-income households, young adults, and older adults. 
-      Younger individuals and families with lower incomes were more likely to qualify for higher tax credits, while older adults may receive smaller subsidies due to lower income 
-      thresholds.
-  - __Assessment of Effectiveness:__ Tax credits played a crucial role in making health insurance coverage more accessible and affordable for millions of Americans, particularly those 
-    with lower incomes. States with higher average monthly tax credits experienced greater reductions in uninsured rates and increased enrollment in marketplace plans, leading to 
-    improved health outcomes and financial security for individuals and families. However, disparities in tax credit distribution persist, with some states and demographic groups 
-    receiving larger subsidies than others. Efforts to address these disparities and ensure equitable access to affordable coverage are essential for achieving universal healthcare 
-    coverage.
+    - __Geographic Distribution:__ States with higher average monthly tax credits were often located in regions with higher healthcare costs or lower income levels. Rural states with smaller populations, such as Alaska and Wyoming, tended to have higher tax credits to offset the higher costs of insurance.
+    - __Demographic Distribution:__ Tax credits benefited individuals and families across various demographic groups, including low-income households, young adults, and older adults. Younger individuals and families with lower incomes were more likely to qualify for higher tax credits, while older adults may receive smaller subsidies due to lower income thresholds.
+  - __Assessment of Effectiveness:__ Tax credits played a crucial role in making health insurance coverage more accessible and affordable for millions of Americans, particularly those with lower incomes. States with higher average monthly tax credits experienced greater reductions in uninsured rates and increased enrollment in marketplace plans, leading to improved health outcomes and financial security for individuals and families. However, disparities in tax credit distribution persist, with some states and demographic groups receiving larger subsidies than others. Efforts to address these disparities and ensure equitable access to affordable coverage are essential for achieving universal healthcare coverage.
 <br />
 <br 
   
 - <img src="images/Top10_States_By_Marketplace_Tax_Credits_(2016)_image.jpg" width="250">
 
 - **Top 10 States By Marketplace Tax Credits (2016):**
-- My focus in this analysis is on the top 10 states by marketplace tax credits in 2016, examining the distribution and impact of tax credits on marketplace enrollment and affordability. It also identifies states with successful marketplace subsidy programs. At the top is the State of Florida with a total of $1,428,712 marketplace tax credit in 2016, followed by California with a total of $1,239,893, Texas with a total of $913,177, North Carolina with a total of $499,178, Georgia - $427,353, Pennsylvania - $321,345, Virginia - $319,068, Michigan - $275,080, Illinois: $259,701, and Missouri with a total of $225,878 marketplace tax credit for 2016.
+- My focus in this analysis is on the top 10 states by marketplace tax credits in 2016. I examined the distribution and impact of tax credits on marketplace enrollment and affordability. This analysis also identifies states with successful marketplace subsidy programs. At the top is the State of Florida with a total of $1,428,712 marketplace tax credit in 2016, followed by California with a total of $1,239,893, Texas with a total of $913,177, North Carolina with a total of $499,178, Georgia - $427,353, Pennsylvania - $321,345, Virginia - $319,068, Michigan - $275,080, Illinois: $259,701, and Missouri with a total of $225,878 marketplace tax credit for 2016.
   - __Distribution and Impact of Tax Credits on Marketplace Enrollment and Affordability:__
-    - __Enrollment Impact:__ States with higher marketplace tax credits often experienced higher enrollment rates in marketplace health insurance plans. Tax credits provided financial 
-      assistance to eligible individuals and families, reducing the cost of monthly premiums and making coverage more affordable. As a result, more individuals were incentivized to 
-      enroll in marketplace plans, leading to increased coverage rates and reduced uninsured rates.
-    - __Affordability:__ Marketplace tax credits played a crucial role in improving affordability for consumers purchasing health insurance through marketplace exchanges. Tax credits 
-      helped offset the cost of premiums, making coverage more affordable for low- and moderate-income individuals and families. As a result, individuals who may have previously been 
-      unable to afford health insurance were able to access coverage, leading to improved financial security and access to healthcare services.
+    - __Enrollment Impact:__ States with higher marketplace tax credits often experienced higher enrollment rates in marketplace health insurance plans. Tax credits provided financial assistance to eligible individuals and families, reducing the cost of monthly premiums and making coverage more affordable. As a result, more individuals were incentivized to enroll in marketplace plans, leading to increased coverage rates and reduced uninsured rates.
+    - __Affordability:__ Marketplace tax credits played a crucial role in improving affordability for consumers purchasing health insurance through marketplace exchanges. Tax credits helped offset the cost of premiums, making coverage more affordable for low- and moderate-income individuals and families. As a result, individuals who may have previously been unable to afford health insurance were able to access coverage, leading to improved financial security and access to healthcare services.
   - __Identification of States with Successful Marketplace Subsidy Programs:__
-    - __Florida:__ With the highest marketplace tax credits in 2016, Florida had a successful marketplace subsidy program that significantly impacted affordability and enrollment. The 
-      availability of generous tax credits encouraged more individuals to enroll in marketplace plans, leading to increased coverage and reduced uninsured rates.
-    - __California:__ California also had a successful marketplace subsidy program, with substantial tax credits provided to eligible residents. The state's proactive outreach efforts 
-      and robust enrollment initiatives further contributed to high enrollment rates and improved affordability for consumers.
-    - __Texas:__ Despite being a non-expansion state, Texas had a significant amount of marketplace tax credits in 2016, indicating the effectiveness of subsidies in encouraging 
-      marketplace enrollment and improving affordability for residents.
-  - In conclusion, the top 10 states by marketplace tax credits in 2016 benefited from increased marketplace enrollment and improved affordability for consumers due to the availability 
-    of generous tax credits. States with successful marketplace subsidy programs, such as Florida, California, and Texas, saw higher enrollment rates and reduced uninsured rates, 
-    highlighting the importance of tax credits in expanding coverage and improving access to healthcare services.
+    - __Florida:__ With the highest marketplace tax credits in 2016, Florida had a successful marketplace subsidy program that significantly impacted affordability and enrollment. The availability of generous tax credits encouraged more individuals to enroll in marketplace plans, leading to increased coverage and reduced uninsured rates.
+    - __California:__ California also had a successful marketplace subsidy program, with substantial tax credits provided to eligible residents. The state's proactive outreach efforts and robust enrollment initiatives further contributed to high enrollment rates and improved affordability for consumers.
+    - __Texas:__ Despite being a non-expansion state, Texas had a significant amount of marketplace tax credits in 2016, indicating the effectiveness of subsidies in encouraging marketplace enrollment and improving affordability for residents.
 <br />
 <br />
 
 - <img src="images/Top10_States_By_Insurance_Coverages_Medicaid_%26_Medicare_Enrollments_(2015-2016)_image.jpg" width="500">
 
-- **Top 10 States By Employer Health Insurance Coverage (2015), Marketplace Health Insurance Coverage (2016), and Medicaid Enrollment (2016), Medicare Enrollment (2016):**
+- **Top 10 States By Employer Health Insurance Coverage (2015), Marketplace Health Insurance Coverage (2016), Medicaid Enrollment (2016), and Medicare Enrollment (2016):**
 - This analysis compares the top 10 states by employer health insurance coverage (2015), marketplace health insurance coverage (2016), Medicaid enrollment (2016), and Medicare enrollment (2016), highlighting variations in coverage sources and enrollment rates. It provides insights into the effectiveness of different coverage programs and enrollment initiatives and identifies variations in coverage and access across states and demographic groups.
   - __Comparison of States Based on Coverage Sources and Enrollment Rates:__
-    - __Employer Health Insurance Coverage:__ States like California, New York, and Texas have the highest employer health insurance coverage rates, indicating a strong presence of 
-      employer- sponsored insurance within their populations.
-    - __Marketplace Health Insurance Coverage:__ California, Florida, and Texas show substantial enrollment in marketplace health insurance plans, indicating successful marketplace 
-      initiatives and outreach efforts in these states.
-    - __Medicaid Enrollment:__ New York, California, and Florida have the highest Medicaid enrollment rates, reflecting successful Medicaid expansion efforts and outreach programs 
-      targeting low-income individuals and families.
-    - __Medicare Enrollment:__ California, Texas, and Florida have significant Medicare enrollment numbers, likely due to larger populations of elderly residents and successful outreach 
-      efforts to eligible individuals.
-  - __Variations in Coverage and Access Across States and Demographic Groups:__ States with higher employer health insurance coverage rates may have lower enrollment rates in 
-    marketplace plans or Medicaid, indicating reliance on employer-sponsored coverage. Medicaid expansion states generally have higher Medicaid enrollment rates and lower uninsured 
-    rates compared to non-expansion states, demonstrating the impact of policy decisions on coverage outcomes. Rural areas and communities with lower income levels may have higher 
-    Medicaid enrollment rates and reliance on marketplace plans due to limited access to employer-sponsored coverage. Young adults and low-income individuals may disproportionately rely 
-    on marketplace plans and Medicaid for coverage, highlighting the importance of targeted outreach and enrollment initiatives for these demographic groups.
-  - __Effectiveness of Different Coverage Programs and Enrollment Initiatives:__ Employer-sponsored insurance remains a significant source of coverage for many Americans, particularly 
-    in states with high rates of employer health insurance coverage. Medicaid expansion has proven effective in increasing coverage rates and reducing uninsured rates in expansion 
-    states, highlighting the importance of policy decisions in expanding access to healthcare. Marketplace exchanges have provided a vital avenue for individuals and families to access 
-    affordable coverage, especially for those ineligible for employer-sponsored insurance or Medicaid.
-  - Finally, variations in coverage sources and enrollment rates across states reflect the effectiveness of different coverage programs and enrollment initiatives. Understanding these 
-    variations can inform targeted interventions and policy decisions aimed at improving coverage and access to healthcare services for all Americans, particularly those in underserved 
-    communities and demographic groups.
+    - __Employer Health Insurance Coverage:__ States like California, New York, and Texas have the highest employer health insurance coverage rates, indicating a strong presence of employer-sponsored insurance within their populations.
+    - __Marketplace Health Insurance Coverage:__ California, Florida, and Texas show substantial enrollment in marketplace health insurance plans, indicating successful marketplace initiatives and outreach efforts in these states.
+    - __Medicaid Enrollment:__ New York, California, and Florida have the highest Medicaid enrollment rates, reflecting successful Medicaid expansion efforts and outreach programs targeting low-income individuals and families.
+    - __Medicare Enrollment:__ California, Texas, and Florida have significant Medicare enrollment numbers, likely due to larger populations of elderly residents and successful outreach efforts to eligible individuals.
+  - __Variations in Coverage and Access Across States and Demographic Groups:__
+    - States with higher employer health insurance coverage rates may have lower enrollment rates in marketplace plans or Medicaid, indicating reliance on employer-sponsored coverage.
+    - Medicaid expansion states generally have higher Medicaid enrollment rates and lower uninsured rates compared to non-expansion states, demonstrating the impact of policy decisions on coverage outcomes.
+    - Rural areas and communities with lower income levels may have higher Medicaid enrollment rates and reliance on marketplace plans due to limited access to employer-sponsored coverage.
+    - Young adults and low-income individuals may disproportionately rely on marketplace plans and Medicaid for coverage, highlighting the importance of targeted outreach and enrollment initiatives for these demographic groups.
+  - __Effectiveness of Different Coverage Programs and Enrollment Initiatives:__
+    - Employer-sponsored insurance remains a significant source of coverage for many Americans, particularly in states with high rates of employer health insurance coverage.
+    - Medicaid expansion has proven effective in increasing coverage rates and reducing uninsured rates in expansion states, highlighting the importance of policy decisions in expanding access to healthcare.
+    - Marketplace exchanges have provided a vital avenue for individuals and families to access affordable coverage, especially for those ineligible for employer-sponsored insurance or Medicaid
 <br />
 <br />
 
@@ -311,20 +276,10 @@ From the analysis, i made the Key Performance Indcator findings below:
 
 - **Uninsured Rate Change By States (2010-2015):**
 - This final analysis focuses on the uninsured rate change by states from 2010 to 2015, utilizing geographic visualization to highlight states with significant reductions or increases in uninsured rates. It provides an understanding of regional trends in uninsured rates and disparities in coverage, identifying areas requiring targeted interventions to improve healthcare access and coverage.
-  - __Geographic Visualization of Uninsured Rate Change:__ Geographic visualization, such as maps, can effectively illustrate variations in uninsured rates across states and regions 
-    over time. States with significant reductions in uninsured rates will be highlighted in one color, while states with increases or minimal changes will be represented differently, 
-    allowing for clear visual interpretation of trends.
-  - __Understanding Regional Trends in Uninsured Rates:__ Regional trends may emerge, with certain areas experiencing more substantial reductions in uninsured rates compared to others. 
-    For example, states in the Northeast and West Coast may show greater improvements in coverage due to factors such as Medicaid expansion and robust marketplace enrollment. 
-    Conversely, states in the South and Midwest may exhibit slower progress in reducing uninsured rates, potentially due to lower Medicaid eligibility thresholds, resistance to Medicaid 
-    expansion, or economic challenges.
-  - __Disparities in Coverage:__ Geographic visualization can highlight disparities in coverage between urban and rural areas, as well as among different demographic groups. Urban areas 
-    may show lower uninsured rates compared to rural areas, where access to healthcare services and insurance options may be more limited. Racial and ethnic disparities in coverage may 
-    also be evident, with minority communities facing higher uninsured rates compared to non-Hispanic white populations.
-  - __Identification of Areas Requiring Targeted Interventions:__ States or regions with persistently high uninsured rates or minimal improvements over time may require targeted 
-    interventions to improve healthcare access and coverage. Policy measures such as Medicaid expansion, increased funding for outreach and enrollment assistance, and investments in 
-    healthcare infrastructure can help address gaps in coverage and improve access to care in underserved areas. Collaborative efforts between federal, state, and local governments, 
-    healthcare providers, and community organizations are essential in implementing effective interventions and reducing disparities in coverage.
+  - __Geographic Visualization of Uninsured Rate Change:__ Geographic visualization, such as maps, can effectively illustrate variations in uninsured rates across states and regions over time. States with significant reductions in uninsured rates will be highlighted in one color, while states with increases or minimal changes will be represented differently, allowing for clear visual interpretation of trends.
+  - __Understanding Regional Trends in Uninsured Rates:__ Regional trends may emerge, with certain areas experiencing more substantial reductions in uninsured rates compared to others. For example, states in the Northeast and West Coast may show greater improvements in coverage due to factors such as Medicaid expansion and robust marketplace enrollment. Conversely, states in the South and Midwest may exhibit slower progress in reducing uninsured rates, potentially due to lower Medicaid eligibility thresholds, resistance to Medicaid expansion, or economic challenges.
+  - __Disparities in Coverage:__ Geographic visualization can highlight disparities in coverage between urban and rural areas, as well as among different demographic groups. Urban areas may show lower uninsured rates compared to rural areas, where access to healthcare services and insurance options may be more limited. Racial and ethnic disparities in coverage may also be evident, with minority communities facing higher uninsured rates compared to non-Hispanic white populations.
+  - __Identification of Areas Requiring Targeted Interventions:__ States or regions with persistently high uninsured rates or minimal improvements over time may require targeted interventions to improve healthcare access and coverage. Policy measures such as Medicaid expansion, increased funding for outreach and enrollment assistance, and investments in healthcare infrastructure can help address gaps in coverage and improve access to care in underserved areas. Collaborative efforts between federal, state, and local governments, healthcare providers, and community organizations are essential in implementing effective interventions and reducing disparities in coverage
 <br />
 <br />
 
