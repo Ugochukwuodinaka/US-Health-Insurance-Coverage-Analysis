@@ -67,7 +67,7 @@ This dataset contains 14 columns and 52 rows of data. Here's an overview of the 
 
 | Table                              | Field                    | Description                            |            
 |:-----------------------------------|:------------------------ |:-------------------------------------- |
-|States                              | State                    | The geographic entity under scrutiny, representing the diverse regions of the United States.    |
+|States.csv                          | State                    | The geographic entity under scrutiny, representing the diverse regions of the United States.    |
 |                                    | Uninsured Rate (2010)    | A measure of the percentage of individuals within a state who lacked health insurance coverage in the year 2010, revealing the extent of vulnerability within the population.     |
 |                                    | Uninsured Rate (2015)    | Similar to the previous column but reflecting the uninsured rate in the year 2015, providing a snapshot of the progress or regress in access to healthcare over the five-year period.         |
 |                                    | Uninsured Rate Change (2010-2015) | The magnitude and direction of the change in uninsured rates from 2010 to 2015, offering insights into the efficacy of policies and initiatives aimed at expanding healthcare coverage.         |
