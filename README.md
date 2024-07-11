@@ -181,20 +181,14 @@ From the analysis, i made the Key Performance Indcator findings below:
   - __Comparison of Enrollment Rates:__ States that expanded Medicaid have a significantly higher enrollment rate compared to those that did not. This indicates a greater number of low- 
     income individuals and families gaining access to healthcare coverage in expansion states. Expansion states benefited from federal funding under the Affordable Care Act (ACA) to 
     extend Medicaid eligibility to individuals with incomes up to 138% of the federal poverty level, leading to broader coverage and increased enrollment.
-  - __Healthcare Outcomes:__ States that expanded Medicaid experienced positive healthcare outcomes, including:
-    - __Reduced uninsured rates:__ Expansion states saw significant declines in uninsured rates due to increased Medicaid coverage, providing access to preventive care, chronic disease 
-      management, and essential health services.
-    - __Improved access to care:__ Expansion of Medicaid led to greater access to primary care providers, specialists, and hospital services for low-income individuals, resulting in 
-      better health outcomes and reduced reliance on emergency care.
-    - __Economic benefits:__ Expansion states realized economic benefits from increased federal funding, job creation in the healthcare sector, and reduced uncompensated care costs for 
-      hospitals and providers.
-  - __Impact of Non-Expansion:__ States that chose not to expand Medicaid may experience negative healthcare outcomes, including:
-    - __Higher uninsured rates:__ Non-expansion states continue to have higher uninsured rates compared to expansion states, resulting in barriers to accessing timely and appropriate 
-      healthcare services for low-income residents.
-    - __Limited access to care:__ Residents in non-expansion states may face challenges in accessing affordable healthcare services, leading to delays in seeking medical care, poorer 
-      health outcomes, and increased healthcare disparities.
-    - __Financial strain:__ Non-expansion states may incur higher healthcare costs due to uncompensated care for uninsured individuals, placing additional strain on state budgets and 
-      healthcare providers.
+ - __Healthcare Outcomes:__ States that expanded Medicaid experienced positive healthcare outcomes, including:
+    - __Reduced uninsured rates:__ Expansion states saw significant declines in uninsured rates due to increased Medicaid coverage, providing access to preventive care, chronic disease management, and essential health services.
+    - __Improved access to care:__ Expansion of Medicaid led to greater access to primary care providers, specialists, and hospital services for low-income individuals, resulting in better health outcomes and reduced reliance on emergency care.
+    - __Economic benefits:__ Expansion states realized economic benefits from increased federal funding, job creation in the healthcare sector, and reduced uncompensated care costs for hospitals and providers.
+ - __Impact of Non-Expansion:__ States that chose not to expand Medicaid may experience negative healthcare outcomes, including:
+    - __Higher uninsured rates:__ Non-expansion states continue to have higher uninsured rates compared to expansion states, resulting in barriers to accessing timely and appropriate healthcare services for low-income residents.
+    - __Limited access to care:__ Residents in non-expansion states may face challenges in accessing affordable healthcare services, leading to delays in seeking medical care, poorer health outcomes, and increased healthcare disparities.
+    - __Financial strain:__ Non-expansion states may incur higher healthcare costs due to uncompensated care for uninsured individuals, placing additional strain on state budgets and
 <br />
 <br />
 
