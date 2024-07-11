@@ -114,7 +114,7 @@ This dataset contains 14 columns and 52 rows of data. Here's an overview of the 
 2. Changed the column data type for __"Uninsured Rate (2020)"__, __"Uninsured Rate (2015)"__, and __"Uninsured Rate Change (2010-2015)"__ from whole number to percentage.
 3. Changed the columns __"Marketplace Tax Credits (2016)"__ and __"Average Monthly Tax Credit (2016)"__ to currency data type from whole number.
 4. Replaced a value in the __"State Medicaid Expansion (2016)"__ from 0 to "False"
-5. Removed the last dat row __"United States"__ from the dataset to allow only the States to stand.
+5. Removed the last data row __"United States"__ from the dataset to allow only the States to stand.
 6. __Transformed__ every other column type to its appropriate column type.
 <br />
 
@@ -126,7 +126,7 @@ This dataset contains 14 columns and 52 rows of data. Here's an overview of the 
 <br />
 
 **Final Power Query Editor screenshot**
-- Below is a screenshot of a part of the cleaned data in power query editor. You can access the full Power BI project document [here](US%20HEALTH%20INSURANCE%20COVERAGE%20(2010%20-%202016).pbix).
+- Below is a screenshot of a part of the cleaned data in power query editor:
 
 ![](images/Power_Query_Editor.png)
 <br />
