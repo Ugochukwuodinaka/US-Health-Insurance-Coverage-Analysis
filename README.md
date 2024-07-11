@@ -162,7 +162,7 @@ From the analysis, i made the Key Performance Indcator findings below:
 - <img src="images/Top10_States_With_The_Most_Declined_Uninsured_Rate_Change_(2010-2016)_image.jpg" width="250">
 
 - **The top 10 states with the most declined uninsured rate change from 2010 to 2016 are as follows:**
-- In this analysis, Massachusetts tops the list of the top 10 States with the most declined uninsured rate change (2010-2016) with -0.016%, followed closely by Maine with -0.017%, North Dakota with -0.020%, South Dakota with -0.022%, Connecticut with -0.031%, Nebraska with -0.033%, Missouri with -0.034%, Wyoming with -0.034%, Wisconsin with -0.037%, and lastly, Delaware, District of Columbia and Pennsylvania with -0.038% each.
+- In this analysis, Massachusetts tops the list of the top 10 States with the most declined uninsured rate change (2010-2016) with -0.016%, followed closely by Maine with -0.017%, North Dakota with -0.020%, South Dakota with -0.022%, Connecticut with -0.031%, Nebraska with -0.033%, Missouri with -0.034%, Wyoming with -0.034%, Wisconsin with -0.037%, and lastly, Delaware, District of Columbia and Pennsylvania with -0.038% respectively.
    - __Insights:__
      - __Medicaid Expansion:__ Several of the top-performing states, such as Massachusetts, Connecticut, and Delaware, have implemented Medicaid expansion under the Affordable Care Act (ACA). This expansion provided coverage to more low-income individuals and families, contributing to the decline in uninsured rates.
      - __Marketplace Enrollment:__ States with successful marketplace enrollment initiatives, including Connecticut and the District of Columbia, saw increased access to affordable health insurance options through marketplace exchanges. Subsidies and tax credits offered through these exchanges helped individuals afford coverage, leading to a reduction in uninsured rates.
@@ -195,24 +195,15 @@ From the analysis, i made the Key Performance Indcator findings below:
 - <img src="images/Top10_States_With_The_Most_Significant_Medicaid_Enrollment_Change_(2013-2016)_image.jpg" width="250">
 
 - **Top 10 States With The Most Significant Medicaid Enrollment Change (2013-2016):**
-- In this analysis, i focused on the analysis focuses on the top 10 states with the most significant Medicaid enrollment changes from 2013 to 2016, exploring the economic, demographic, and policy factors driving enrollment changes and drawing insights into the effectiveness of Medicaid expansion and other enrollment initiatives. California sits at the top of these top 10 States with a figure of 4,087,700 enrollment change, followed by New York with 752,748, Washington is next with 670,960, Ohio folliows with 661,089, Kentucky - 613,983, Colorado - 591,844, Florida - 539,677, Arizona - 514,428, New Jersey - 500,678, and last in the top 10 States is Pennsylvania with 497,068. 
+- In this analysis, i focuses on the top 10 states with the most significant Medicaid enrollment changes from 2013 to 2016, exploring the economic, demographic, and policy factors driving enrollment changes and drawing insights into the effectiveness of Medicaid expansion and other enrollment initiatives. California sits at the top of the top 10 States with a figure of 4,087,700 enrollment change, followed by New York with 752,748, Washington comes next with 670,960, Ohio follows with 661,089, Kentucky - 613,983, Colorado - 591,844, Florida - 539,677, Arizona - 514,428, New Jersey - 500,678, and last in the top 10 States is Pennsylvania with 497,068. 
   - __Factors Driving Enrollment Changes:__
-    - __Economic Conditions:__ States experiencing economic growth or downturns may see corresponding changes in Medicaid enrollment. Economic factors such as unemployment rates, job 
-      losses, and income levels influence individuals' eligibility and need for Medicaid coverage.
-    - __Demographic Shifts:__ Changes in population demographics, including aging populations, migration patterns, and birth rates, can impact Medicaid enrollment. Demographic shifts 
-      may increase demand for Medicaid services among certain age groups or communities.
-    - __Policy Changes:__ Medicaid expansion under the Affordable Care Act (ACA) played a significant role in driving enrollment changes in many states. States that expanded Medicaid 
-      eligibility to more low-income adults saw substantial increases in enrollment due to broader eligibility criteria and increased access to coverage.
-    - __Outreach and Enrollment Initiatives:__ States that implemented proactive outreach and enrollment initiatives, including targeted marketing campaigns, simplified application 
-      processes, and community-based enrollment assistance, experienced higher enrollment rates. These efforts helped raise awareness about Medicaid eligibility and facilitated 
-      enrollment for eligible individuals.
+     - __Economic Conditions:__ States experiencing economic growth or downturns may see corresponding changes in Medicaid enrollment. Economic factors such as unemployment rates, job losses, and income levels influence individuals' eligibility and need for Medicaid coverage.
+     - __Demographic Shifts:__ Changes in population demographics, including aging populations, migration patterns, and birth rates, can impact Medicaid enrollment. Demographic shifts may increase demand for Medicaid services among certain age groups or communities.
+     - __Policy Changes:__ Medicaid expansion under the Affordable Care Act (ACA) played a significant role in driving enrollment changes in many states. States that expanded Medicaid eligibility to more low-income adults saw substantial increases in enrollment due to broader eligibility criteria and increased access to coverage.
+     - __Outreach and Enrollment Initiatives:__ States that implemented proactive outreach and enrollment initiatives, including targeted marketing campaigns, simplified application processes, and community-based enrollment assistance, experienced higher enrollment rates. These efforts helped raise awareness about Medicaid eligibility and facilitated enrollment for eligible individuals.
   - __Insights into Medicaid Expansion and Enrollment Initiatives:__
-    - __Effectiveness of Medicaid Expansion:__ States that expanded Medicaid eligibility under the ACA, such as California, New York, and Washington, experienced significant increases 
-      in enrollment. Medicaid expansion provided coverage to millions of low-income adults who were previously ineligible, resulting in improved access to healthcare services and 
-      reduced uninsured rates.
-    - __Success of Outreach and Enrollment Initiatives:__ States that invested in outreach and enrollment initiatives, such as Colorado and Kentucky, saw notable enrollment gains. These 
-      initiatives helped reach eligible individuals who may have been unaware of their eligibility or faced barriers to enrollment, such as language barriers or lack of access to 
-      information.
+     - __Effectiveness of Medicaid Expansion:__ States that expanded Medicaid eligibility under the ACA, such as California, New York, and Washington, experienced significant increases in enrollment. Medicaid expansion provided coverage to millions of low-income adults who were previously ineligible, resulting in improved access to healthcare services and reduced uninsured rates.
+     - __Success of Outreach and Enrollment Initiatives:__ States that invested in outreach and enrollment initiatives, such as Colorado and Kentucky, saw notable enrollment gains. These initiatives helped reach eligible individuals who may have been unaware of their eligibility or faced barriers to enrollment, such as language barriers or lack of access
 <br />
 <br />
 
