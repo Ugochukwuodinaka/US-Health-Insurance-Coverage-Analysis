@@ -137,10 +137,10 @@ No data modelling was required since we had just one table for the analysis.
 <br />
 
 ## Visualization in Power BI:
-#### Report 1
+#### Enrollment
 ![](images/US_Health_Insurance_Coverage_(2010-2016)_Analysis_Dashboard1.jpg)
 
-#### Report 2
+#### Coverage
 ![](images/US_Health_Insurance_Coverage_(2010-2016)_Analysis_Dashboard2.jpg)
 <br />
 <br />
@@ -282,8 +282,8 @@ From the analysis, i made the Key Performance Indcator findings below:
 <br />
 <br />
 
-## Visuals in Power BI Report:
-You can view and interact with this dashboard report on US Health Insurance Coverage (2010-2016) [here](https://app.powerbi.com/view?r=eyJrIjoiYTczNmI4N2MtMTkzOC00ZWQwLTkxZDYtZmQyOTBlOWYyN2VmIiwidCI6IjdlYzI5NjU5LTNjZjItNGYzZi1hYmIzLWE3MjJlZGY3ZmYyZCJ9).
+## Visuals in Power BI:
+You can view and interact with this dashboard on US Health Insurance Coverage (2010-2016) [here](https://app.powerbi.com/view?r=eyJrIjoiYTczNmI4N2MtMTkzOC00ZWQwLTkxZDYtZmQyOTBlOWYyN2VmIiwidCI6IjdlYzI5NjU5LTNjZjItNGYzZi1hYmIzLWE3MjJlZGY3ZmYyZCJ9).
 <br />
 <br />
 <br />
