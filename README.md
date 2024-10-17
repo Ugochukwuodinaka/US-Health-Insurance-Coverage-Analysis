@@ -138,10 +138,10 @@ No data modelling was required since we had just one table for the analysis.
 
 ## Visualization in Power BI:
 #### Report 1
-![](images/US_Health_Insurance_Coverage_(2010%20-%202016)_Analysis_Dashboard1.jpg)
+![](images/US_Health_Insurance_Coverage_(2010-2016)_Analysis_Dashboard1.jpg)
 
 #### Report 2
-![](images/US_Health_Insurance_Coverage_(2010%20-%202016)_Analysis_Dashboard2.jpg)
+![](images/US_Health_Insurance_Coverage_(2010-2016)_Analysis_Dashboard2.jpg)
 <br />
 <br />
 
